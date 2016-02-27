@@ -22,6 +22,9 @@ deploy:
   file:
     - "protocols.zip"
     - "protocols.tar.gz"
+    - "protocols/full-protocols.pdf"
+    - "mass_spec/workflow.pdf"
   skip_cleanup: true
   on:
     repo: white-lab/protocols
+    tags: true
