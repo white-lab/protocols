@@ -1,10 +1,8 @@
-# Biology Notes
+# White Lab Protocols
 
-Notes related to various topics in biology. These topics include neuroscience,
-systems and synthetic biology, and imaging.
-
-For notes on mass spectrometry and protocols used in the White lab, check the
-mass_spec and protocols folders respectively.
+This repository contains notes and protocols for mass spectrometry analysis of
+proteomes. For general notes, check the `mass_spec` folder, and for individual
+protocols, check the `protocols` folder.
 
 ## Compiling to PDF
 
