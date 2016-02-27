@@ -19,6 +19,9 @@ deploy:
   provider: releases
   api_key:
     secure: eH93ths7/X4I0FAJBCaW/P5WMW7DHiACUUlz2ieXjr+vtBXKRI8eEMsULBG5t/3JGrzYgGQ+JYDVX4QO5yi3pyB1lwxzpxrBUVMWvo8sW9wWecIJ372eZ1T2fJNct+c11aPJR1aBnJuQEap8VdL10F/i1+qPzQpFGqNqAtK1fYBmDmNp9+RfEnco0xoofL5HcJMceUwD4E7WW3FbTlnNe8HU9V2y+ErDxG4EBlIhfCSzN1rTKKkHu/telkhwVFclJ5a2ZmYgGGC9DOQp72NtfquHm/8LRqXee0ZaEnXqQfq/gCQXIVxQkRSeMwDkU3DTKEgMEs9QVXxQ5IpW+BtEpWaVqs4nU7b9rxLVXhiTjR7Dve1u9fXzTZxW2scrRYkpsQYnDh+QCEQZEh989QXVgC8vYw+26HuwRwN1pf0C78eKA2o95C00LFYATqRKakH98Y0rW6VxNHRFYl3eu5LsYmr3KRcuYp4EA2+rw0+rxh4tn+Zh8IlND/YvefDoqZLW/gzjP3tL6HUJY0kA8rgqVmKtOd9nni8iZbyPrjAoDcBi8YrmDg9Oodtd8E49n/VXnPNA5yeufoFRqUb/E6dq7MT9EdVkUIWRGnxLvL9jkRnPRr29QveeK0vHDqIAn+8gaHGMcPLsTjVpKyZmJ16IFIKptEGB1EvevzJseZRXu5M=
-  file: protocols.zip
+  file:
+    - "protocols.zip"
+    - "protocols.tar.gz"
+  skip_cleanup: true
   on:
     repo: white-lab/protocols
