@@ -50,8 +50,8 @@
 8. Incubate at 37 °C for 30 min (use oven in mass spec lab).
 9. Check wells for presence of bubbles, 1 mg / mL standards be purple in color.
 10. Measure the absorbance at 562 nm on a plate reader.
-    1. Add shaking parameter...
-    2. X reads per well...
+    1. Before reads, add a shaking parameter of 1 mm amplitude for 10 seconds.
+    2. Set the number of flashes per well to 25.
 
 ## Data Processing
 
