@@ -32,7 +32,7 @@
 
 * Cell Scrapers
 
-* Labeled 15-mL tubes.
+* Labeled 15-mL tubes
 
 ## Steps
 

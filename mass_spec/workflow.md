@@ -58,8 +58,12 @@ Though this step also generates DNA, lipids, and other metabolites, those
 components are separated during an initial spin-down step and left out while
 transferring the peptides across tubes during de-salting.
 
-**Protocol**: [Cell Lysis](../protocols/lysis.md),
-[Tissue Homogenization](../protocols/homogenization.md)
+For western blots and protein IPs, you should lyse cells in a non-denaturing
+buffer, such as RIPA.
+
+**Protocols**: [Cell Lysis](../protocols/lysis.md),
+[Tissue Homogenization](../protocols/homogenization.md),
+[RIPA Lysis](../protocols/ripa_lysis.md)
 
 - - -
 
