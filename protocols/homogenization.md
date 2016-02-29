@@ -5,6 +5,8 @@
 * Homogenizer
     * VWR® 200 Homogenizer
 
+* Ice Bucket
+
 ## Reagents
 
 * MilliQ $H_2O$
