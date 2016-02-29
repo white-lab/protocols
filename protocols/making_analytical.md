@@ -3,6 +3,7 @@
 ## Equipment
 
 * Laser Puller
+    * Sutter Instrument Co. Model P-2000
 
 * Pressure Bomb
 
