@@ -256,7 +256,8 @@ single day. Though IMAC tends to give better enrichment than NTA and require
 fewer steps, NTA is less prone to errors such as leaks at column junctions or
 poor flow through a column.
 
-**Protocol**: [NTA](../protocols/nta.md)
+**Protocol**: [NTA-IP](../protocols/nta_ip.md)
+**Protocol**: [NTA-Global](../protocols/nta_global.md)
 
 ## Note on Fractionation / Enrichment
 
