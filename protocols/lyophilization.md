@@ -20,5 +20,6 @@
 4. Close valves on any other chambers before opening any new valves.
 5. Attach the chamber to the the lyophilizer.
 6. Ensure the pressure on the lyophilizer drops to below 400 millitorr.
-7. Let samples lyophilize overnight.
-8. Store the samples at -80°C.
+7. Check back on the samples after 30 minutes to ensure they have not melted.
+8. Let samples lyophilize overnight.
+9. Store the samples at -80°C.
