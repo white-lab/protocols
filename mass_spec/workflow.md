@@ -63,7 +63,9 @@ buffer, such as RIPA.
 
 **Protocols**: [Cell Lysis](../protocols/lysis.md),
 [Tissue Homogenization](../protocols/homogenization.md),
-[RIPA Lysis](../protocols/ripa_lysis.md)
+[RIPA Lysis](../protocols/ripa_lysis.md),
+[Sodium Orthovanadate Activation](../protocols/sodium_orthovanadata_activation.md),
+[Protein Immunoprecipitation](../protocols/protein_ip.md)
 
 - - -
 
