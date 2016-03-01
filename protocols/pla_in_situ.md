@@ -156,7 +156,7 @@ high that the signals coalesce (Figure B). In cases with abundant signal, modifi
 primary antibody dilution, or proximity probe dilution/incubation time can resolve this
 issue.
 
-![PLA in situ](images/pla_in_situ.png)
+![PLA in situ](https://raw.githubusercontent.com/white-lab/protocols/master/protocols/images/pla_in_situ.jpg)
 
 Parameters such as fixation, antigen retrieval, permeabilization, primary antibody
 performance/concentration can be optimized in immunofluorescence experiments.
