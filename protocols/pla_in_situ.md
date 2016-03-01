@@ -148,12 +148,15 @@ slip, aspirate any residual that forms around edge of slip.
     where the protein is known to be expressed (transfection) vs. non-expressed (RNAi).
     Biological controls can include conditions where PLA signal is modulated by i) ligand
     stimulation, ii) inhibitor treatment, iii) mutation of interaction interface, etc.
+
     Successful in situ PLA generates bright fluorescent spots with a diameter just below a
     micrometer in size, easily distinguishable in a fluorescence microscope (Figure A). In
     some cases, when studying highly expressed proteins, the density of signals may be so
     high that the signals coalesce (Figure B). In cases with abundant signal, modification of
     primary antibody dilution, or proximity probe dilution/incubation time can resolve this
     issue.
+
+    ![PLA in situ](images/pla_in_situ.png)
 
     Parameters such as fixation, antigen retrieval, permeabilization, primary antibody
     performance/concentration can be optimized in immunofluorescence experiments.
