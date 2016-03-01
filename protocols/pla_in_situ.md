@@ -141,31 +141,31 @@ slip, aspirate any residual that forms around edge of slip.
     13. Image!
 
 *CRITICAL NOTE*: Before the PLA signals can be trusted, the primary antibodies and
-    proximity probes need to be characterized to ensure selective binding. This
-    characterization should involve a range of technical and biological controls, both
-    positive and negative. Technical controls can include conditions where i) one of the two
-    primary antibodies are excluded, ii) one of the two PLA probes are excluded, iii) cells
-    where the protein is known to be expressed (transfection) vs. non-expressed (RNAi).
-    Biological controls can include conditions where PLA signal is modulated by i) ligand
-    stimulation, ii) inhibitor treatment, iii) mutation of interaction interface, etc.
+proximity probes need to be characterized to ensure selective binding. This
+characterization should involve a range of technical and biological controls, both
+positive and negative. Technical controls can include conditions where i) one of the two
+primary antibodies are excluded, ii) one of the two PLA probes are excluded, iii) cells
+where the protein is known to be expressed (transfection) vs. non-expressed (RNAi).
+Biological controls can include conditions where PLA signal is modulated by i) ligand
+stimulation, ii) inhibitor treatment, iii) mutation of interaction interface, etc.
 
-    Successful in situ PLA generates bright fluorescent spots with a diameter just below a
-    micrometer in size, easily distinguishable in a fluorescence microscope (Figure A). In
-    some cases, when studying highly expressed proteins, the density of signals may be so
-    high that the signals coalesce (Figure B). In cases with abundant signal, modification of
-    primary antibody dilution, or proximity probe dilution/incubation time can resolve this
-    issue.
+Successful in situ PLA generates bright fluorescent spots with a diameter just below a
+micrometer in size, easily distinguishable in a fluorescence microscope (Figure A). In
+some cases, when studying highly expressed proteins, the density of signals may be so
+high that the signals coalesce (Figure B). In cases with abundant signal, modification of
+primary antibody dilution, or proximity probe dilution/incubation time can resolve this
+issue.
 
-    ![PLA in situ](images/pla_in_situ.png)
+![PLA in situ](images/pla_in_situ.png)
 
-    Parameters such as fixation, antigen retrieval, permeabilization, primary antibody
-    performance/concentration can be optimized in immunofluorescence experiments.
-    Alternatively, these parameters can be tested in a single recognition PLA format
-    whereby one primary antibody is detected by two secondary proximity probes (ie. antimouse
-    PLUS and anti-mouse MINUS proximity probes recognizing a mouse primary
-    antibody bound to the target protein. The single recognition format is preferred for
-    testing as it gives a better indication of dual recognition PLA performance compared to
-    IF experiments.
+Parameters such as fixation, antigen retrieval, permeabilization, primary antibody
+performance/concentration can be optimized in immunofluorescence experiments.
+Alternatively, these parameters can be tested in a single recognition PLA format
+whereby one primary antibody is detected by two secondary proximity probes (ie. antimouse
+PLUS and anti-mouse MINUS proximity probes recognizing a mouse primary
+antibody bound to the target protein. The single recognition format is preferred for
+testing as it gives a better indication of dual recognition PLA performance compared to
+IF experiments.
 
 ## PLA Buffers and Solutions Appendix
 
