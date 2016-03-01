@@ -12,34 +12,53 @@ based on a 30-μl reaction volume, sufficient for a surface area of approximatel
 
 ## Reagents
 
-Cover slips No. 1.5 (18 mm square, 12-541A, Fisher)
-Wash Buffer- 1X PBS
-Fixative [eg.16% PFA (15710, 10 ampules, Electron Microscopy Sciences)]
-ImmEdge barrier pen (H-4000, Vector Labs)
-Permeabilization Buffer (ie. 0.1% Triton X-100 in 1X PBS)
-Antibody Wash Buffer- 1X TBS + 0.05% Tween-20
-Tris-acetate (T1258, 25 g, Sigma)
-Mg-acetate (M5661, 50 g, Sigma)
-K-acetate (P1190, 100 g, Sigma)
-NaCl
-BSA
-Tween-20
-DTT
-Sonicated salmon sperm DNA (AM9680, 10 mg/mL Invitrogen)
-100 mM ATP (R0441, 100 mM Fermentas)
-T4 DNA Ligase (EL0016, 1 U/uL, Fermentas)
-dNTP mix (N0447S, 10 mM each nt, NEB)
-phi-29 DNA Polymerase (EP0091, 10 U/uL Fermentas)
-Sodium citrate tribasic dihydrate (S4641, 500 g, Sigma)
-Hoescht 33342 (H1399, 100 mg Invitrogen)
-Microscope slides (75x25, CLS294875X25, Fisher)
-Vectashield (H-1000, Vector Labs)
+* Cover slips No. 1.5
+    * 18 mm square, 12-541A, Fisher
+* Wash Buffer
+    * 1X PBS
+* Fixative
+    * i.e. 16% PFA (15710, 10 ampules, Electron Microscopy Sciences)
+* ImmEdge barrier pen
+    * H-4000, Vector Labs
+* Permeabilization Buffer
+    * i.e. 0.1% Triton X-100 in 1X PBS
+* Antibody Wash Buffer- 1X TBS + 0.05% Tween-20
+* Tris-acetate
+    * T1258, 25 g, Sigma
+* Mg-acetate
+    * M5661, 50 g, Sigma
+* K-acetate
+    * P1190, 100 g, Sigma
+* NaCl
+* BSA
+* Tween-20
+* DTT
+* Sonicated salmon sperm DNA
+    * AM9680, 10 mg / mL Invitrogen
+* 100 mM ATP
+    * R0441, 100 mM Fermentas
+* T4 DNA Ligase
+    * EL0016, 1 U / μL, Fermentas
+* dNTP mix
+    * N0447S, 10 mM each nt, NEB
+* phi-29 DNA Polymerase
+    * EP0091, 10 U / μL Fermentas
+* Sodium citrate tribasic dihydrate
+    * S4641, 500 g, Sigma
+* Hoescht 33342
+    * H1399, 100 mg Invitrogen
+* Microscope slides
+    * 75x25, CLS294875X25, Fisher
+* Vectashield
+    * H-1000, Vector Labs
 
-2° proximity PLUS and MINUS probes
-2° Connector 1: 5′-P-CTA TTA GCG TCC AGT GAA TGC GAG TCC GTC TAA GAG
-AGT AGT ACA GCA GCC GTC AAG AGT GTC TA-3ʼ
-2° Connector 2: 5′-P- GTT CTG TCA TAT TTA AGC GTC TTA A-3ʼ
-2° Detection: 5′-Alexa 555-CAG TGA ATG CGA GTC CGT CT-3ʼ
+* 2° proximity PLUS and MINUS probes
+* 2° Connector 1
+    * 5′-P-CTA TTA GCG TCC AGT GAA TGC GAG TCC GTC TAA GAG AGT AGT ACA GCA GCC GTC AAG AGT GTC TA-3ʼ
+* 2° Connector 2
+    * 5′-P- GTT CTG TCA TAT TTA AGC GTC TTA A-3ʼ
+* 2° Detection
+    * 5′-Alexa 555-CAG TGA ATG CGA GTC CGT CT-3ʼ
 
 ## Steps
 
