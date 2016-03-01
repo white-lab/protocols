@@ -72,5 +72,5 @@
 8. Multiple the concentration by the total sample volume to find the total
    protein content.
 
-This processing can be quickly done using
+BCA assays can also be quickly analyzed using
 [pyproteome](https://github.com/white-lab/pyproteome) (See `pyproteome.bca`)
