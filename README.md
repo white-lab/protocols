@@ -12,7 +12,8 @@ We supply automatically-compiled PDFs of tagged commits on our
 
 All documents contained here are written using
 [Markdown](https://daringfireball.net/projects/markdown/). To convert them to
-PDF yourself, install `markdown-pdf` and run the `make` command:
+PDF yourself, install `markdown-pdf` via the node package manager and run
+`make`:
 
 ```
 # On CentOS / Fedora / RHEL

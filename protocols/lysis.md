@@ -1,5 +1,8 @@
 # Urea Cell Lysis
 
+This protocol describes cell lysis for cell culture. For tissue and organoid
+lysis, see the [Homogenization](homogenization.md) protocol.
+
 ## Reagents
 
 * Ice in ice tray.
@@ -10,7 +13,7 @@
     * Located on chemical shelf in wet lab.
     * Make fresh!
     * Weigh out urea first, then add water to fill tube up to desired volume,
-      vortex and let sit on water bath to help dissolve the urea crystals.
+      vortex and let sit in water bath to help dissolve the urea crystals.
     * Cool down urea on ice before adding it to cells.
 
 * 1 mM Sodium Orthovanadate (Optional)
@@ -33,8 +36,10 @@
 4. Lyse cells in ice cold Urea + inhibitors
     * For 10 cm dishes, add 500 μL Urea.
     * For 15 cm dishes, add 1 mL Urea.
-5. Use a cell scraper to lift the cells off the plate into the solution.
+5. Use a cell scraper to lift the cells off the plate into the
+   solution.
     * Scrape in all four directions while holding the dish at a slant in order
       to remove all of the cell and collect them at one end.
 6. Pipette the solution into labeled 15 mL conical tubes.
-7. Store lysates at -80°C.
+7. Take a 50 μL aliquot for [BCA](bca.md) protein quantification.
+8. Store lysates at -80°C.
