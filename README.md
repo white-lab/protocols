@@ -21,3 +21,6 @@ $ sudo apt-get install npm
 $ npm install markdown-pdf
 $ make
 ```
+
+We also supply automatically-compiled PDFs of tagged commits on our
+[releases](https://github.com/white-lab/protocols/releases) page.
