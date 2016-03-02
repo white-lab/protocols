@@ -1,7 +1,9 @@
-<!-- TOC depth:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [Mass Spectrometry Workflow](#mass-spectrometry-workflow)
 - [Cell Lysis](#cell-lysis)
+	- [Protein Immunoprecipitation / Staining](#protein-immunoprecipitation-staining)
+	- [Proximity-Ligation Assay (PLA)](#proximity-ligation-assay-pla)
 - [Sample Processing](#sample-processing)
 	- [Total Protein Measurement](#total-protein-measurement)
 	- [Chemical Modification and Digestion](#chemical-modification-and-digestion)
@@ -33,7 +35,6 @@
 	- [Clustering](#clustering)
 	- [Gene Set Enrichment Analysis (GSEA)](#gene-set-enrichment-analysis-gsea)
 	- [Motif Analysis](#motif-analysis)
-
 
 # Mass Spectrometry Workflow
 
