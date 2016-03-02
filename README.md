@@ -1,8 +1,9 @@
 # White Lab Protocols
 
 This repository contains notes and protocols for mass spectrometry analysis of
-proteomes. For general notes, check the `mass_spec` folder, and for individual
-protocols, check the `protocols` folder.
+proteomes. For an introduction to our overall lab workflow, check the
+[workflow](mass_spec/workflow.md) document, and for individual protocols, check
+the [protocols](protocols) folder.
 
 ## Compiling to PDF
 
