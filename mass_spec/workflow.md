@@ -184,7 +184,8 @@ relative and absolute quantitation) and TMT (Tandem Mass Tags). iTRAQ allows for
 possible, experiments should be designed to take advantage of TMT as
 <reasons...>.
 
-**Protocol**: [Mass Tag Labeling](../protocols/mass_tag_labeling.md)
+**Protocol**: [Mass Tag Labeling](../protocols/mass_tag_labeling.md),
+[TMT Aliquoting](../protocols/tmt_aliquot.md)
 
 ### SILAC
 
