@@ -38,13 +38,14 @@ the same time as the initial IMAC EDTA / water / iron washes.
     5. Add 300 μL IP buffer.
     6. Add 12 μL 4G10 antibody.
     7. Add 9 μL PT66 antibody.
-    8. Incubate on rotator for 6-8 hours at 4°C.
-    9. Spin down at 6500 rpm for 1 minute.
-    10. Remove supernatant.
-    11. Wash beads with 400 μL IP buffer.
-    12. Incubate on rotator for 5 minutes at 4°C.
-    13. Spin down at 6500 rpm for 1 minute.
-    14. Remove supernatant.
+    8. Add 12 μL PY100 antibody (optional).
+    9. Incubate on rotator for 6-8 hours at 4°C.
+    10. Spin down at 6500 rpm for 1 minute.
+    11. Remove supernatant.
+    12. Wash beads with 400 μL IP buffer.
+    13. Incubate on rotator for 5 minutes at 4°C.
+    14. Spin down at 6500 rpm for 1 minute.
+    15. Remove supernatant.
 2. Prepare the sample.
     1. For labeled samples, resuspend in 150 μL iTRAQ IP buffer + 300 μL MilliQ
        water (Or 400 μL iTRAQ IP buffer).
