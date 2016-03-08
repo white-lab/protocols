@@ -12,7 +12,8 @@
 
 * Ultra-pure / Nano-pure / Mass-Spec Grade Water
 
-* Iron Chloride ($FeCl_2$)
+* Fe(III) Chloride ($FeCl_3$)
+    * Sigma-Aldrich 451649
     * Located in fume hood in wet lab within desicator.
 
 * 0.1% Acetic Acid
