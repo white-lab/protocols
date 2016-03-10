@@ -36,4 +36,4 @@
 9. Add trypsin to lysate.
 10. Incubate on rotator overnight (18-24 hours).
 11. Stop the reaction by adding 1 mL Acetic Acid.
-12. Store samples in -80°C.
+12. Store samples in -80 °C.
