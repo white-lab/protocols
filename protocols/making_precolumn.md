@@ -69,6 +69,9 @@
         * OR Leave out in air overnight.
         * Do not bake! It will melt the beads.
 8. Wash the column with 100% Acetonitrile for 5 minutes at 200-400 psi.
+    * From this step onwards, make sure your second frit is on top (outside the
+      bomb). This will help check the integrity of the frit and prevent later
+      issues with NTA / IP beads flowing up the column.
 9. Wash the column with 0.1% Acetic Acid for 10 minutes at 500 psi.
 10. Make a Teflon connector.
     1. Cut a 2-3 cm length of silicon tubing (green tab).
