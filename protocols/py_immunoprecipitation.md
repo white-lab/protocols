@@ -9,9 +9,9 @@ the same time as the initial IMAC EDTA / water / iron washes.
 * Protein G Agarose Beads (Calbiochem IP08)
 
 * pY Antibodies
-    * 4G10 (Millipore)
-    * PT66 (Sigma)
-    * PY100 (CST) (Optional)
+    * 4G10 (Millipore) - 1 μg / μL
+    * PT66 (Sigma) - 2 μg / μL
+    * PY100 (CST) (Optional) - 1 μg / μL
 
 * IP Buffer
     * 100 mM Tris-HCl, 0.3% NP-40, pH 7.4
@@ -37,8 +37,8 @@ the same time as the initial IMAC EDTA / water / iron washes.
     4. Remove supernatant.
     5. Add 300 μL IP buffer.
     6. Add 12 μL 4G10 antibody.
-    7. Add 9 μL PT66 antibody.
-    8. Add 12 μL PY100 antibody (optional).
+    7. Add 9 μL PT66 antibody, 6 μL if using PY100.
+    8. Add 6 μL PY100 antibody (optional).
     9. Incubate on rotator for 6-8 hours at 4°C.
     10. Spin down at 6500 rpm for 1 minute.
     11. Remove supernatant.
