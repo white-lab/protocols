@@ -4,6 +4,12 @@ All steps for the pY immunoprecipitation should be performed in the cold room
 until the final elution step. Rinses on the second day should be performed at
 the same time as the initial IMAC EDTA / water / iron washes.
 
+## Equipment
+
+* Centrifuge
+
+* Rotator
+
 ## Reagents
 
 * Protein G Agarose Beads (Calbiochem IP08)
@@ -58,9 +64,9 @@ the same time as the initial IMAC EDTA / water / iron washes.
           * Start with 1-2 μL of buffer for unlabeled samples.
           * Start with 5-10 μL of buffer for labeled samples.
 3. Add sample to beads.
-4. Incubate on rotator overnight at 4°C.
+4. Incubate on rotator overnight at 4 °C.
 5. Spin down at 6500 rpm for 1 minute.
-6. Remove and save supernatant, store in -80°C.
+6. Remove and save supernatant, store in -80 °C.
 7. Wash beads with 400 μL iTRAQ IP buffer.
     1. Add buffer.
     2. Spin down at 6500 rpm for 1 minute.
