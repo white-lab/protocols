@@ -1,5 +1,11 @@
 # Chemical Modification and Digestion
 
+## Equipment
+
+* Heat Bath
+
+* Vortexer
+
 ## Reagents
 
 * 100 mM Ammonium Acetate pH 8.9
@@ -28,7 +34,7 @@
    are starting with more or less lysate.
 2. Add 40 μL DTT solution to lysate.
 3. Vortex lysate.
-4. Incubate in 56°C water bath for 1 hour.
+4. Incubate in 56 °C water bath for 1 hour.
 5. Add 300 μL IAA solution to lysate.
 6. Wrap tube in tin foil to block UV light from degrading IAA.
 7. Incubate on rotator for 1 hour.
