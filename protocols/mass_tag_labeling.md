@@ -1,5 +1,11 @@
 # TMT / iTRAQ Mass Tag Labeling
 
+## Equipment
+
+* Vortexer
+
+* Centrifuge
+
 ## Reagents
 
 * TMT
