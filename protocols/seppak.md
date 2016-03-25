@@ -3,12 +3,15 @@
 ## Equipment
 
 * Harvard Appartatus (Syringe Pump)
+    * Located on shelf next to chemical reagents.
 
 ## Reagents
 
 * Sep-Pak Plus C18 Cardiges, Waters (WAT020515)
+    * Located on shelf next to chemical reagents.
 
 * BD Syringe
+    * Located on shelf next to chemical reagents.
 
 * 99.99% Glacial Acetic Acid
 
