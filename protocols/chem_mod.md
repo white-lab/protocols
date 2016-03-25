@@ -21,9 +21,7 @@
     * Final conecntration should be 55 mM IAA when added to lysate
 
 * Trypsin (Promega V5113)
-    * Located in -80°C, each tube is 20 μg / 50 μL
-    * Add trypsin at 1:50 (1 μg trypsin : 50 μg lysate, 20 μg trypsin : 1 mg
-      lysate)
+    * Located in -80 °C, each tube is 20 μg / 50 μL
 
 * Acetic Acid (99.99%)
     * Located in Acids cabinet underneath fume hood
@@ -40,6 +38,8 @@
 7. Incubate on rotator for 1 hour.
 8. Add 8-9 mL Ammonium Acetate pH 8.9 to quench reaction.
 9. Add trypsin to lysate.
-10. Incubate on rotator overnight (18-24 hours).
+    * Add trypsin at 1:50 (1 μg trypsin : 50 μg lysate, 20 μg trypsin : 1 mg
+      lysate)
+10. Incubate on rotator overnight (18 - 24 hours).
 11. Stop the reaction by adding 1 mL Acetic Acid.
 12. Store samples in -80 °C.
