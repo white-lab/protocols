@@ -2,7 +2,7 @@
 
 ## Equipment
 
-* Harvard Appartatus
+* Harvard Appartatus (Syringe Pump)
 
 ## Reagents
 
