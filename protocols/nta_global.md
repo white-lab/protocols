@@ -1,4 +1,4 @@
-# Fe(III)-nitrilotriacetic acid (NTA) Enrichment for IP elution
+# Fe(III)-nitrilotriacetic acid (NTA) Enrichment for Global Phosho-Serine/Threonine
 
 ## Equipment
 
