@@ -25,7 +25,9 @@
 * Formamide
     * Sigma-Aldrich
 
-* Methanol
+* Ultrapure (MS-grade) Water
+    * Make fresh every time to avoid leftover particulate that may clog your
+      column.
 
 * 80% Methanol, 20% Chloroform
     * Located in flammables cabinet below fume hood in wet lab.
@@ -68,7 +70,7 @@
         * Let bake in oven at 100°C for 10 minutes on a foil tray.
         * OR leave out in air overnight.
 6. Attach column to pressure bomb.
-7. Flow methanol at 1000 psi to flush out excess material.
+7. Flow ultrapure water at 1000 psi to flush out excess material.
     * If tip does not flow, gently flame the end while under pressure until you
       can see spray or droplet come out the end.
 8. Pack the column using 3 or 5 μm beads.
