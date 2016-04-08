@@ -98,10 +98,11 @@ To split cells, follow these steps:
       lazy at this step can lead to selection for less-adherent cells.
 8. Spin down cells.
 9. Aspirate off supernant.
-10. Measure cell count.
-11. Add media, then cells to plate at desired concentration.
+10. Resuspend in media
+11. Measure cell count.
+12. Add media, then cells to plate at desired concentration.
     * Use enough media to give 10 mL final concentration for 10 cm^2 dishes.
-12. Shake plate left-right, then back-forth to distribute evenly on plate.
+13. Shake plate left-right, then back-forth to distribute evenly on plate.
 
 ## Freezing Cells
 
