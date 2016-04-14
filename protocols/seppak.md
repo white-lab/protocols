@@ -29,7 +29,7 @@
 4. Label the columns and corresponding tubes for elution.
 5. Condition columns.
     1. 10 mL of 0.1% Acetic Acid at 2 mL / min.
-    2. 10 mL of 90% Acetonitrile, 0.1% Acetic Acid at 1 mL / min.
+    2. 10 mL of 90% Acetonitrile, 0.1% Acetic Acid at 2 mL / min.
     3. 10 mL of 0.1% Acetic Acid at 2 mL / min.
 6. Load the sample onto the column at 1 mL / min.
 7. Rinse the column with 10 mL of 0.1% Acetic Acid at 2 mL / min.
