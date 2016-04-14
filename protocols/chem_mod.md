@@ -12,13 +12,15 @@
 
 * 1 M DTT (Sigma D0632) in Ammonium Acetate solution
     * Located in wet lab fridge
+    * 0.00615 g in 40 μL for each 4 mL of lysate
     * Always make fresh!
     * Final concentration should be 10 mM DTT when added to lysate
 
 * 800 mM Iodoacetamide (Sigma I1144) in Ammonium Acetate solution
     * Located in wet lab fridge within desicant container
+    * 0.044 g in 300 μL for each 4 mL of lysate
     * Always make fresh!
-    * Final conecntration should be 55 mM IAA when added to lysate
+    * Final concentration should be 55 mM IAA when added to lysate
 
 * Trypsin (Promega V5113)
     * Located in -80 °C, each tube is 20 μg / 50 μL
