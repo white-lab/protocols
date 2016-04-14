@@ -19,7 +19,7 @@ calculations in example taken from [Corning](http://csmedia2.corning.com/LifeSci
       product performance.
 3. Dilute fibronectin 1:100 in sterile balanced salt solution and coat the
    culture surface with a minimal volume.
-    * Use 1‑5 μg fibroncectin / cm^2
+    * Use 1‑5 μg fibronectin / cm^2
 4. Allow to air dry for at least 45 minutes at room temperature.
     * Excess fibronectin may be removed by aspiration, but is not necessary.
 5. Optionally wash with PBS or media.
