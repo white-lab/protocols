@@ -79,3 +79,4 @@
 9. Flush the column with 0.1% Formic Acid for 10 minutes at 1000 psi.
 10. Condition the column with peptides.
     * Load 10 fmol BSA for 10 minutes at 1000 psi.
+11. Store the column with the tip in acetic acid to prevent it drying out.
