@@ -46,7 +46,7 @@ To count the number of cells in a solution, follow these steps:
 
 1. Invert cell's tube to ensure even distribution of cells.
 2. Get a new cell counting slide.
-3. Spot 2x10 μL of cells into each of slide's holes.
+3. Spot 2 x 20 μL of cells into each of slide's holes.
     * There are four holes per slide, but you will only need to spot cells
       into two: one for each separated glass slip.
 4. Place slide in cell reader.
@@ -110,7 +110,7 @@ To freeze cells down, first follow the steps of lifting cells up and moving them
 into a 15 mL conical tube. Once you have cells in solution, follow these steps:
 
 1. Close the conical tube and invert to distribute cells evenly in solution.
-2. Take 2x 10 μL of cells and measure their cell counts.
+2. Take 2 x 20 μL of cells and measure their cell counts.
 3. Spin down cells.
 4. Aspirate off supernatant.
 5. Resuspend cells in Freeze Media:
