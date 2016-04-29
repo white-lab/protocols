@@ -1,6 +1,6 @@
-# Venting, Cleaning, and Baking the Orbitrap
+# Orbitrap Maintenance
 
-## Steps
+## Venting, Cleaning, and Baking
 
 1. Venting:
     1. Turn off the PC
@@ -51,3 +51,30 @@
        (this indicates that there are no big leaks introduced into the system
        during the cleaning).
     4. Calibrate after cleaning.
+
+## Calibration
+
+1. Set the LTQ's state to off from the computer to disable ion scanning.
+2. Remove the stage from the front of the instrument.
+    * Make sure the instrument is off to prevent any high voltage shocks. Be
+      careful not to touch the front end as it may still be hot.
+3. Grab a calibration source, line, and syringe from the drawers underneath the
+   QE+.
+4. Wash the line and syringe with methanol followed by several syringe
+   volume's worth of air.
+5. Fill the syringe with 500 μL of LTQ calibration standard, located in the
+   fridge underneath the MS lab's reagents.
+6. Attach the calibration ion source to the LTQ, the line to the ion source,
+   the syringe to the line, and place the syringe in the LTQ's syringe pump.
+7. Push the syringe until to you can see a droplet form on the inside of the
+   source.
+8. Set the LTQ's state to on from the computer and up the ESI spray voltage to
+   4 kV. Check for ions in the current scan as your apply pressure to the
+   syringe.
+9. Drop the ESI spray voltage to 2 kV.
+10. Turn on syringe control, set syringe type to Hamilton, infusion rate to
+    2 μL / min, and total volume to 500 μL. Check for ions in the current scan.
+11. Go to the top menu and select: Control -> Calibrate -> Semi-Automatic.
+12. Select All, then deselect negative ion and ultrazoom.
+13. Check back on the results after 30 minutes. If any tests have failed,
+    re-check just those tests and repeat.
