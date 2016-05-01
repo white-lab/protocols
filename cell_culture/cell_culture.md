@@ -86,7 +86,8 @@ split them once a week.
 To split cells, follow these steps:
 
 1. Aspirate off media.
-2. Optionally: Wash with PBS to remove residual media components.
+2. Optionally: Wash with PBS (without calcium or magnesium) to remove residual
+   media components.
 3. Add trypsin to cells.
 4. Move cells to incubator and wait.
 5. Check cells under microscope to ensure they are no longer adherent.
