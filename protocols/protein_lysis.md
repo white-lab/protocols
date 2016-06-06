@@ -11,9 +11,9 @@
 
 * 10mL lysis buffer
  * 1 tablet protease inhibitor (cOmplete mini with 25 tablets/bottle; Roche)
-    * 1 aliquot phosphotase inhibitor (Boston BioProducts BP-479)
+    * 1 aliquot phosphatase inhibitor (Boston BioProducts BP-479)
         * (in fridge at farthest end)
-        * Only need phosphotase inhibitor if doing phopho measurements or Western
+        * Only need phosphatase inhibitor if doing phopho measurements or Western
         * 10 mL NP4O lysis buffer (pH 7.5)
         * Contains 20mM TrisHCl, 2mM EDTA, 150mM NaCl, 1% NP40, 10% glycerol
             * Weigh out TrisHCl/NaCl ; dilute EDTA
