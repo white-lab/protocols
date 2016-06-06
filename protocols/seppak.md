@@ -7,8 +7,12 @@
 
 ## Reagents
 
-* Sep-Pak Plus C18 Cardiges, Waters (WAT020515)
+* Sep-Pak Cartridge
     * Located on shelf next to chemical reagents.
+    * Sep-Pak C18 Plus Short (Waters, WAT020515)
+        * Maximum peptide capacity: 4 mg
+    * Sep-Pak C18 Plus Light (Waters, WAT023501)
+        * Maximum peptide capacity: 1 mg
 
 * BD Syringe
     * Located on shelf next to chemical reagents.
