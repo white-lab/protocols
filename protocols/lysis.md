@@ -34,6 +34,7 @@ lysis, see the [Homogenization](homogenization.md) protocol.
     2. Swirl.
     3. Pour off or aspirate off.
 4. Lyse cells in ice cold Urea + inhibitors
+    * For 6 wells, add 200 μL Urea to each well.
     * For 10 cm dishes, add 500 μL Urea.
     * For 15 cm dishes, add 1 mL Urea.
 5. Use a cell scraper to lift the cells off the plate into the
