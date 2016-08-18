@@ -39,9 +39,9 @@ days.
 ## Steps
 
 1. Day 1
-    1. Plate HEK293 cells in a 6-well at 30-40% confluency. Use one well for
-       each gene of interest, including GFP, empty vector, and a negative
-       control well.
+    1. Plate HEK293 cells in a 6-well at 30-40% confluency (~1 x 10^ cells / well).
+       Use one well for each gene of interest, including GFP, empty vector, and
+       a negative control well.
 2. Day 2
     1. Transfect HEK293 cells with vectors for the envelope, packaging (GAG-Pol),
        and MIP genes:
@@ -59,6 +59,7 @@ days.
 3. Day 3
     1. Aspirate FuGene-Media-Plasmid mix off of the HEK293 cells.
     2. Add 2 mL of complete media onto the HEK293 cells.
+        * If using a GFP control, check HEK cells for fluorescence.
     3. Plate your cells to be infected with retrovirus in a separate 6-well. Use
        a high cell number (i.e. 1 x 10^6 cells / well) as these cells will only
        grow in the well for 3 days and many will die during selection.
@@ -84,7 +85,7 @@ days.
     1. Check cells for minimal death. If you see excessive cell death from this
        day until adding puro, you may need to optimize your transfection
        conditions. (i.e. more cells, less virus, less polybrene, shorter time
-           before changing media)
+       before changing media)
     2. Check GFP-transfected cells under a fluorescent microscope. You may see
        faint expression within 1-2 days.
 6. Day 6
