@@ -46,16 +46,23 @@
    membrane.
     1. Crack open gel.
     2. Layer a sponge, filter paper, gel, membrane, filter paper, and sponge.
-       The membrane should be located closer to the positive electrode when
-       transferring proteins.
+       The membrane should be located closer to the positive (red) electrode
+       when transferring proteins.
     3. After adding each layer to the sandwich, use a roller to remove any air
        bubbles.
 7. Plate the membrane stack in a transfer container with transfer buffer, a stir
    bar, and an ice pack.
 8. Run the transfer step at 100 V for 2 hours in the cold room on a stir plate.
-9. Test Ponceau staining to detect protein.
+9. Test Ponceau staining to quickly check for successful protein transfer.
+    1. Pour Ponceau red stain onto membrane in box.
+    2. Incubate on rotator for up to 10 minutes.
+    3. Pour Ponceau stain off and wash several times with MilliQ water.
+    4. Check for successful staining in lanes of membrane with lysate as well as
+       for a red-ish tinge on the molecular weight markers.
 10. Block the membrane in 20 mL of blocking buffer for 1 hour at room temperature
     or overnight at 4 °C.
+    * This and following steps will remove any residual Ponceau red from your
+      membrane.
 11. Incubate the membrane with an appropriately diluted primary antibody
     overnight at 4 °C.
     1. Use 50 mL blocking buffer with 100 μL of 0.2% Tween added.
