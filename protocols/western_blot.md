@@ -9,6 +9,8 @@
     * Use 2X Laemmli sample buffer or 4X Loading Buffer.
     * 4X Loading Buffer located above Vibhuti's bench.
 
+* 1 M Stock Dithiothreitol (DTT)
+
 * Running Buffer
     * NuPAGE MOPS Buferr
 
@@ -35,8 +37,8 @@
     * Make sure to spin down all samples at 13,400 rpm for 15 minutes in the
       cold room to clear out any lipid debris.
     * Keep all samples on ice when not actively in use.
-2. Aliquot 25 - 50 μg of sample in 30 μL. Add 7.5 μL of 4X loading buffer to
-   sample.
+2. Aliquot 25 - 50 μg of sample in up to 25 μL. Add 4X loading buffer and 1:10
+   stock DTT to sample.
 3. Boil samples at 70 °C for 10 minutes on a heat block.
 4. Load equal amounts of protein into each well of a SDS-PAGE gel.
     * Make sure to remove insulating tape from bottom of gel.
@@ -48,11 +50,16 @@
     2. Layer a sponge, filter paper, gel, membrane, filter paper, and sponge.
        The membrane should be located closer to the positive (red) electrode
        when transferring proteins.
+        * Use either a nitrocellulose membrane or an activated PDVF membrane.
+          To activate a PDVF membrane, let is soak in 100% methanol for a few
+          seconds and then equilibrate in transfer buffer until it sinks.
     3. After adding each layer to the sandwich, use a roller to remove any air
        bubbles.
 7. Plate the membrane stack in a transfer container with transfer buffer, a stir
    bar, and an ice pack.
 8. Run the transfer step at 100 V for 2 hours in the cold room on a stir plate.
+    * Check that the current is between 300 and 500 mA, if it is lower, that
+      may cause an inefficient transfer.
 9. Test Ponceau staining to quickly check for successful protein transfer.
     1. Pour Ponceau red stain onto membrane in box.
     2. Incubate on rotator for up to 10 minutes.
