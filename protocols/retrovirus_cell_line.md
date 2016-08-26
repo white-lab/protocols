@@ -39,7 +39,7 @@ days.
 ## Steps
 
 1. Day 1
-    1. Plate HEK293 cells in a 6-well at 30-40% confluency (~1 x 10^ cells / well).
+    1. Plate HEK293 cells in a 6-well at 50-75% confluency (~1 x 10^6 cells / well).
        Use one well for each gene of interest, including GFP, empty vector, and
        a negative control well.
 2. Day 2
@@ -52,10 +52,9 @@ days.
         3. Add FuGene directly onto the media. Use 12 μL of FuGene for each gene
            (i.e. 72 μL for 6 genes).
         4. Wait 10 minutes for FuGene to mix with media.
-        5. Add 200 μL of FuGene-Media mix to each tube of plasmids.
+        5. Add 200 μL of FuGene:Media mix to each tube of plasmids.
         6. Wait 15 minutes for FuGene to bind to DNA.
-        7. Remove media from HEK293 cells.
-        8. Add all of FuGene-Media-Plasmid mix to each well of HEK293 cells.
+        7. Add all of FuGene:Media:Plasmid mix to each well of HEK293 cells.
 3. Day 3
     1. Aspirate FuGene-Media-Plasmid mix off of the HEK293 cells.
     2. Add 2 mL of complete media onto the HEK293 cells.
@@ -98,3 +97,21 @@ days.
        control does not have cell growth and the positive cases do.
     * Once you see decent cell growth, split cells and immediately put several
       vials into cryo-storage.
+
+## Transfection using Lipofectamine LTX
+
+1. Day 2
+    1. Aspirate media off of HEK293 cells.
+    2. Add 2 mL media to HEK293 cells.
+    3. Dilute 5-12.5 μL Lipofectamine LTX® Reagent in 500 μL serum free media.
+    3. Mix 1 μg MIP, 333 μg envelope, and 666 μg packaging plasmid in an
+       eppendorf tube for each gene.
+    4. Add 500 μL Lipofec
+    4. Dilute plasmids in 500 μL Opti-MEM® I Reduced Serum Media without serum.
+    5. Add 5-12.5 μL Lipofectamine LTX® Reagent into each Opti-MEM®:DNA solution.
+    6. Add 2.5 μL PLUS reagent.
+    6. Mix Lipofectamine:Opti-MEM:DNA solution gently and let sit at room
+       temperature for 30 minutes.
+    7. Add 500 μL of Lipofectamine:Opti-MEM:DNA complexes to each well of HEK293
+       cells.
+    8. Let cells incubate for 18-24 hours.
