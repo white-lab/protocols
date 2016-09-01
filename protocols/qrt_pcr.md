@@ -29,7 +29,7 @@
       GAPDH) as well as F and R for each gene.
 
 * cDNA
-    * Prepared using [cDNA Protocol](cdna.md).
+    * Prepared using [cDNA Protocol](cdna_prep.md).
     * Incubate at room temperature to thaw, spin down in microcentrifuge.
 
 * RNAase-free, Endotoxin-free Water ("Water" below)
