@@ -52,7 +52,13 @@
     1. Fix the capillary in the laser puller, with the end of the coating
        aligned with the left closure.
     2. Pull the tip using program 58 with desired parameters (i.e. Line 6: heat
-       250 - 252, vel 13)
+       250 - 252, vel 13). The full list of parameters are:
+        * 280 - 15 - 128
+        * 270 - 15 - 128
+        * 260 - 15 - 128
+        * 240 - 15 - 128
+        * 230 - 15 - 128
+        * 252 - 13 - 125
     3. Check the tip under a microscope.
 5. Make the frit.
     1. Mix 100 μL Lithisil and 50 μL TFA Silicate in a new tube.
