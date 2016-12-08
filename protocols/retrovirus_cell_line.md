@@ -3,6 +3,7 @@
 ## Reagents
 
 * FuGene (Promega, E2311)
+    * Located in Tissue Culture Fridge
 
 * Puromycin (Puro)
 
@@ -19,6 +20,7 @@
       on a gel.
 
 * 0.45 μm filter
+    * VMR Cat. No. 28145-505
 
 * BD Syringe
 
@@ -74,7 +76,7 @@ days.
     3. Allocate 1 mL of virus to one tube.
     4. Add 4-5 μg / mL of polybrene to tube.
     5. Wait 5-10 minutes for polybrene to mix with virus.
-    6. Add polybrene-virus mix to your cells. Add 1-2 mL of regular media
+    6. Add polybrene:virus mix to your cells. Add 1-2 mL of regular media
        alongside the filtered supernatant if your cells need serum or other
        nutrients.
     7. Save other eppendorf of virus in the freezer. First freeze in the -20 and
