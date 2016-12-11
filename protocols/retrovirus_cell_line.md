@@ -41,7 +41,7 @@ days.
 ## Steps
 
 1. Day 1
-    1. Plate HEK293 cells in a 6-well at 50-75% confluency (~1 x 10^6 cells / well).
+    1. Plate HEK293 cells in a 6-well at 50-75% confluency (~5 x 10^5 cells / well).
        Use one well for each gene of interest, including GFP, empty vector, and
        a negative control well.
 2. Day 2
@@ -62,7 +62,7 @@ days.
     2. Add 2 mL of complete media onto the HEK293 cells.
         * If using a GFP control, check HEK cells for fluorescence.
     3. Plate your cells to be infected with retrovirus in a separate 6-well. Use
-       a high cell number (i.e. 1 x 10^6 cells / well) as these cells will only
+       a high cell number (i.e. 5 x 10^5 cells / well) as these cells will only
        grow in the well for 3 days and many will die during selection.
 4. Day 4
     1. Collect media supernatant from HEK293 cells.
