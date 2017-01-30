@@ -6,8 +6,8 @@ DATE = $(shell date "+%B %d %Y (%F)")
 GIT_REVISION = $(shell git rev-parse --short HEAD)
 
 runnings.js:
-	echo 'exports.header = { height: "0.5cm", contents: function(pageNum, numPages) { return "<span style=\"float:right; color:#606060; font-size:0.6em\">$(DATE) - $(GIT_REVISION)</span>" } }' > runnings.js
-	echo 'exports.footer = { height: "0.5cm", contents: function(pageNum, numPages) { return "<span style=\"float:right; color:#606060; font-size:0.6em\">" + pageNum + " / " + numPages + "</span>" } }' >> runnings.js
+	echo 'exports.header = { height: "1cm", contents: function(pageNum, numPages) { return "<span style=\"float:right; color:#606060; font-size:0.6em\">$(DATE) - $(GIT_REVISION)</span>" } }' > runnings.js
+	echo 'exports.footer = { height: "1cm", contents: function(pageNum, numPages) { return "<span style=\"float:right; color:#606060; font-size:0.6em\">" + pageNum + " / " + numPages + "</span>" } }' >> runnings.js
 
 %.pdf: %.md runnings.js
 	markdown-pdf --runnings-path runnings.js -o $@ $<
