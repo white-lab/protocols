@@ -20,8 +20,6 @@
     * Used for 8-plex iTRAQ.
 
 * 500 mM TE AB (iTRAQ Dissolution Buffer)
-    * Can be made from 1:1 1 M TEAB (located in liquid chemicals shelf) and
-      MilliQ water.
 
 * 25% Acetonitrile, 0.1% Acetic Acid
 
@@ -33,6 +31,8 @@
 1. Spin down lyophilized samples.
 2. Resuspend 400 μg dry aliquots in 70 μL Ethanol and 30 μL 500 mM TE AB.
     * Samples may be light pink at this stage.
+    * Use 85 μL Ethanol and 15 μL 1 M TE AB if using stock solution from chemical
+      shelf (Do not dilute with water).
 3. Vortex and spin down at 13,400 rpm for 1 minute..
 4. Equilibrate TMT at room temperature for 3 minutes.
 5. Resuspend TMT in 30 μL anhydrous MeCN.
