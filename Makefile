@@ -14,7 +14,7 @@ runnings.js:
 
 protocols/full-protocols.pdf: $(SRC) runnings.js
 	rm -f protocols/full-protocols.md
-	for file in protocols/*.md ; do \
+	for file in protocols/*.md cell_culture/*.md ; do \
 		cat $$file >> protocols/full-protocols.md ; \
 		echo '<div style="page-break-after: always;"></div>' >> protocols/full-protocols.md ; \
 		echo >> protocols/full-protocols.md ; \

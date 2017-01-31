@@ -1,5 +1,8 @@
 # White Lab Protocols
 
+[![Build Status](https://img.shields.io/travis/white-lab/protocols.svg)](https://travis-ci.org/white-lab/protocols)
+
+
 This repository contains notes and protocols for mass spectrometry analysis of
 proteomes. For an introduction to our overall lab workflow, check the
 [workflow](mass_spec/workflow.md) document, and for individual protocols, check
