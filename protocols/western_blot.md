@@ -76,7 +76,7 @@
 12. Wash the membrane flour times with washing buffer. Let membrane sit with
     buffer for 5 minutes on rotator between adding and pouring off.
 13. If using a secondary antibody, add antibody at 1:20,000 dilution in 2 mL of
-    blocking buffer.
+    blocking buffer with 0.2% Tween.
 14. Incubate for 1 hour on rotator.
 15. Wash the membrane four times with washing buffer as before.
 16. Re-suspend membrane in 1X PBS.
