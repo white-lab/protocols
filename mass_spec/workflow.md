@@ -198,14 +198,17 @@ two conditions and does not require that peptides be re-labeled after digestion.
 
 Unfortunately, the mixture of peptides within cell lysate is normally too
 complex to analyze in a single mass-spec run. For phosphotyrosine analysis, this
-is not an issue, but for measurement of other modifications, it is necessary to
-simplify our peptide mixture.
+is not an issue, but for measurement of other peptides, such as
+phosphoserine/threonine or unmodified peptides, it is necessary to simplify our
+peptide mixture.
 
 To reduce the complexity of a mixture, we can run the sample over separate
 chromatography conditions from those used to elute peptides during LC-MS/MS
 analysis. Fractions are then concatenated in a way that produces mixtures of
 chemically distinct peptides (i.e. fractions 1, 5, 9, ... -> mix 1; fractions 2,
 6, 10, ... -> mix 2; etc).
+
+**Protcol**: [Peptide Fractionation](../protocols/peptide_fractionation.md)
 
 ### Isoelectric Focusing (IEF)
 
