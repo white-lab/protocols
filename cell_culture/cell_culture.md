@@ -126,3 +126,10 @@ into a 15 mL conical tube. Once you have cells in solution, follow these steps:
 8. Store case in -80 °C overnight.
 9. Move tubes to cell storage freezer.
     * Located in cell culture stock room.
+
+## Useful numbers
+
+| Cell line | Plate Size | Seeding Density |
+|:----------|:-----------|:----------------|
+| BV-2      | 10 cm      | 100,000         |
+| HEK 293T  | 10 cm      | 200,000         |

@@ -45,8 +45,8 @@ days.
        Use one well for each gene of interest, including GFP, empty vector, and
        a negative control well.
 2. Day 2
-    1. Transfect HEK293 cells with vectors for the envelope, packaging (GAG-Pol),
-       and MIP genes:
+    1. Transfect HEK293 cells with vectors for the envelope (VSVG), packaging
+       (GAG-Pol), and MIP genes:
         1. Mix 1 μg MIP, 333 μg envelope, and 666 μg packaging plasmid in an
            eppendorf tube for each gene.
         2. Prepare a second tube with RPMI media (without serum). Use 200 μL of
