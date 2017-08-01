@@ -47,7 +47,7 @@ days.
 2. Day 2
     1. Transfect HEK293 cells with vectors for the envelope (VSVG), packaging
        (GAG-Pol), and MIP genes:
-        1. Mix 1 μg MIP, 333 μg envelope, and 666 μg packaging plasmid in an
+        1. Mix 1 μg MIP, 333 ng envelope, and 666 ng packaging plasmid in an
            eppendorf tube for each gene.
         2. Prepare a second tube with RPMI media (without serum). Use 200 μL of
            media for each gene (i.e. 1.2 mL for 6 genes).
@@ -106,7 +106,7 @@ days.
     1. Aspirate media off of HEK293 cells.
     2. Add 2 mL media to HEK293 cells.
     3. Dilute 5-12.5 μL Lipofectamine LTX® Reagent in 500 μL serum free media.
-    3. Mix 1 μg MIP, 333 μg envelope, and 666 μg packaging plasmid in an
+    3. Mix 1 μg MIP, 333 ng envelope, and 666 ng packaging plasmid in an
        eppendorf tube for each gene.
     4. Add 500 μL Lipofec
     4. Dilute plasmids in 500 μL Opti-MEM® I Reduced Serum Media without serum.
