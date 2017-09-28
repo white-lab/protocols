@@ -57,9 +57,11 @@
        bubbles.
 7. Plate the membrane stack in a transfer container with transfer buffer, a stir
    bar, and an ice pack.
-8. Run the transfer step at 100 V for 2 hours in the cold room on a stir plate.
+8. Run the transfer step capping at 80 V or 0.50 Amps for 2 hours in the cold
+   room on a stir plate.
     * Check that the current is between 300 and 500 mA, if it is lower, that
-      may cause an inefficient transfer.
+      may cause an inefficient transfer. If the voltage is higher than 80 V,
+      you may boil your gel as well.
 9. Test Ponceau staining to quickly check for successful protein transfer.
     1. Pour Ponceau red stain onto membrane in box.
     2. Incubate on rotator for up to 10 minutes.
