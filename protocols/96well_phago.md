@@ -11,16 +11,16 @@
 
 * Cell media
     * 30 mL / plate
-    * 400k cells / plate (32k / row)
+    * 800k cells / plate (64k / row)
 
 * Wash Buffer
     * PBS with calcium and magnesium.
-    * 25 mL / plate
+    * 30 mL / plate
 
 * Flow Cytometry Buffer (FCB)
     * 10% FBS, 1 mM EDTA, PBS without calcium or magnesium.
     * Keep on ice.
-    * 55 mL / plate
+    * 60 mL / plate
 
 * Fluorescent Particles
     * Aβ-Alexa Fluor-488 (AnaSpec: AS-60479-01)
@@ -38,8 +38,8 @@
 
 ## Steps
 
-1. Day 1: Plate 4,000 cells / well in 300 μL of media.
-    * Use 1:3 ratio of WT : Receptor (1000 : 3000 cells)
+1. Day 1: Plate 8,000 cells / well in 300 μL of media.
+    * Use 1:3 ratio of WT : Receptor (2000 : 6000 cells)
 2. Day 2: Check wells for cell attachment, add inhibitors in evening.
     * 0.15 μL of 10 mM Sara for 5 μM
     * 0.006 μL of 50 mM Dasat for 1 μM
@@ -66,13 +66,16 @@
     * 4x Siglec Ab
     * 3x fluorophore
     * 1x no dye
-    * 1 well bleach
-    * 1 well MilliQ Water
 
 * Organize wells for easy pipetting (8x12)
     * 1 construct / row
-    * 4 columns / set (Ctrl, Aβ, Dex, Beads)
+    * 1 control column
+    * 3 columns / set (Ctrl, Aβ, Dex, Beads)
     * 3 sets / plate (No drug, Dasat, Sara)
+    * 1 cleanup column (4x 10% bleach, 4x water)
 
-* Cytometer Timing
-    * 1 hour / plate? 10k cells / well
+* Cytometer Settings
+    * Sample volume: 150 μL
+    * Mixing volume: 50 μL
+    * # mixes: 5
+    * ~95 seconds / well : 2.5 hours / plate
