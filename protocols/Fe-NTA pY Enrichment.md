@@ -1,4 +1,4 @@
-High-Select Fe-NTA Phosphopeptide Enrichment Kit (A32992, Thermo)
+# High-Select Fe-NTA Phosphopeptide Enrichment Kit (A32992, Thermo)
 After the rinse steps in IP:
 1. Elute with 25 uL 0.2% TFA for 10 min at room temperature on rotator.
    While the peptides are eluting, prepare the FeNTA columns
