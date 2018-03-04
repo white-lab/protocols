@@ -77,5 +77,5 @@
 * Cytometer Settings
     * Sample volume: 150 μL
     * Mixing volume: 50 μL
-    * # mixes: 5
+    * \# mixes: 5
     * ~95 seconds / well : 2.5 hours / plate
