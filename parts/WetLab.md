@@ -40,3 +40,30 @@
 | Weigh Dishes (small) | VWR | 89106-764 | |
 | Weigh Dishes (medium) | VWR | 89106-766 | |
 | Weigh Dishes (large) | VWR | 89106-770 | |
+
+# Tissue Culture Supplies
+
+
+| Item Name | Vendor | Catalog No. | Link |
+|:----------|:-------|:------------|:-----|
+| Cell Culture Dishes (100mm x 20mm) | VWR | 25382-428 | |
+| Cell Lifters | VWR | 29442-200 | |
+| Cell Scrapers | VWR | 29442-202 | |
+| Culture Slides | VWR | 53106-306 | |
+| Cryogenic Vials - 2 mL | VWR | 66021-942 | |
+| Filter System - 500 mL | VWR | 28199-778 | |
+| Filter System - 1 L | VWR | 28199-792 | |
+| Liquid Nitrogen - 22 psi | Airgas | 230LT22 | |
+| Liquid Nitrogen - 235 psi | Airgas | 230LT230 | |
+| Pasteur Pipettes | VWR | 14673-043 | |
+| Pipette Tips (barrier) - BT10 | VWR | 89140-160 | |
+| Pipette Tips (barrier) - BT10XL | VWR | 89168-750 | |
+| Pipette Tips (barrier) - BT20 | VWR | 89140-932 | |
+| Pipette Tips (barrier) - BT200 | VWR | 89140-936 | |
+| Pipette Tips (barrier) - BT1250 | VWR | 89168-756 | |
+| Plates - 6-well, cell culture | VWR | 29442-042 | |
+| Plates - 12-well, tissue culture | VWR | 62406-165 | |
+| Plates - 24-well, culture cluster | VWR | 29442-044 | |
+| Plates - 96-well, round bottom | VWR | 82050-748 | |
+| Plates - 96-well, UV | VWR | 66021-983 | |
+| 5 mL tubes w/ cell strainer cap | VWR | 21008-948 | |
