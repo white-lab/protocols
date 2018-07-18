@@ -14,23 +14,34 @@ After the rinse steps in IP:
 
 5. Mix the sample and FeNTA beads by holding the screw cap and very gently tapping the bottom plug for 10s until the beads are in suspension.
    Important! Avoid splashing the sample.
-6. Incubate for 30 min at room temp. Mix the resin gently every 10 mins.
-7. Carefully remove the bottom plug and loosen the cap.
+6. Incubate for 30 min at room temp. Mix the resin gently every 5 mins.
+
+7. During the incubation step, condition the elution tube with BSA
+   1. Add 1 ug tryptic digested-BSA in 40 uL 0.1% Acetic Acid to a 1.7 mL eppendorf tube.
+   2. Vortex for 10 seconds.
+   3. Speed-vac to dryness (25-30 minutes)
+   4. Rinse tube 4x:
+      1. Add 40 uL of:
+         * 1x SpinColumn elution buffer
+         * 2x with 10% Acetonitrile .1% Acetic Acid
+         * 1x with .1% Acetic Acid
+      5. Vortex for 5 seconds, spin down briefly.
+      6. Remove liquid from tube by pipette.
+
+8. Carefully remove the bottom plug and loosen the cap.
     Do not squeeze the bottom of the plug.
-8. Place the column back into FT tube. Centrifuge at 1000xg for 30s.
-9. Store the FT at -20 C (only if you need to analyze the FT).
+9. Place the column back into FT tube. Centrifuge at 1000xg for 30s.
+10. Store the FT at -20 C (only if you need to analyze the FT).
 
-10. Place the column in a new microcentrifuge tube.
-11. Wash the column with 150 uL Binding/Wash buffer. Centrifuge at 1000xg for 30s.
+11. Place the column in a new microcentrifuge tube.
+12. Wash the column with 150 uL Binding/Wash buffer. Centrifuge at 1000xg for 30s.
     Repeat the wash twice for a total of 3 washes. Discard the wash flowthrough.
-12. Wash the columns with 200 uL LC-MS grade water. Centrifuge at 1000xg for 30s.
+13. Wash the columns with 200 uL LC-MS grade water. Centrifuge at 1000xg for 30s.
 
-13. Place the column in a new labeled microcentrifuge tube (1.7 mL eppendorf tube). Cut the cap off such that the tube fits in bomb loader.
-14. Add 20 uL of Elution buffer to the column. Centrifuge at 1000xg for 30s.
-15. Repeat once
-16. Speed-vac the sample until 1-5 uL remains (~20 mins). Important! Do not dry the sample.
-17. Resuspend the sample in 30 uL 5% Acetonitrile in 0.1% Formic Acid. Do not vortex. Avoid splashing the sample. 
-18. Bomb load sample onto precolumn.
-19. Wash the precolumn for 10-15 mins and run.
-
-   
+14. Place the column in a BSA-coated microcentrifuge tube. Cut the cap off such that the tube fits in bomb loader.
+15. Add 20 uL of Elution buffer to the column. Centrifuge at 1000xg for 30s.
+16. Repeat once
+17. Speed-vac the sample until 1-5 uL remains (18-20 mins). Important! Do not dry the sample.
+18. Resuspend the sample in 30 uL 5% Acetonitrile in 0.1% Formic Acid. Do not vortex. Avoid splashing the sample. 
+19. Bomb load sample onto precolumn.
+20. Wash the precolumn for 10-15 mins and run. 
