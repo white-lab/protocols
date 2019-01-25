@@ -25,8 +25,8 @@ After the rinse steps in IP:
          * 1x SpinColumn elution buffer
          * 2x with 10% Acetonitrile .1% Acetic Acid
          * 1x with .1% Acetic Acid
-      5. Vortex for 5 seconds, spin down briefly.
-      6. Remove liquid from tube by pipette.
+      2. Vortex for 5 seconds, spin down briefly.
+      3. Remove liquid from tube by pipette.
 
 8. Carefully remove the bottom plug and loosen the cap.
     Do not squeeze the bottom of the plug.
@@ -40,12 +40,11 @@ After the rinse steps in IP:
 
 14. Place the column in a BSA-coated microcentrifuge tube. Cut the cap off such that the tube fits in bomb loader.
 15. Elute phosphopeptides twice from the column:
-   1. Add 20 μL of Elution buffer to the column.
-   2. Let column sit for 10 minutes (beads should turn brown).
-   3. Centrifuge at 1000xg for 30s.
+      1. Add 20 μL of Elution buffer to the column.
+      2. Centrifuge at 1000xg for 30s.
 16. Speed-vac the sample until 1-5 μL remains (18-20 mins).
    * Important! Pay attention to sample volume. Do not dry the sample. Volumes > 5 μL may cause peptide chromatography issues.
    * If sample volume is > 5 μL, place back in speed vac and check every 5 minutes.
-17. Resuspend the sample in 30 μL 5% Acetonitrile in 0.1% Formic Acid. Do not vortex. Avoid splashing the sample. 
-18. Bomb load sample onto precolumn.
-19. Wash the precolumn for 10-15 mins and run. 
+17. Resuspend the sample in 10 μL 5% Acetonitrile in 0.1% Formic Acid. Do not vortex. Avoid splashing the sample. 
+18. Bomb load sample directly onto an analytical column. Loading can take 60-90 mins. Make sure the column does not run dry.
+19. Run on the instrument. 
