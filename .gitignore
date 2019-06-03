@@ -8,5 +8,3 @@
 *.tmp
 node_modules
 protocols/full-protocols.md
-runnings.js
-
