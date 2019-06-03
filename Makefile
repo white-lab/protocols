@@ -10,6 +10,7 @@ PDFS = $(SRC:.md=.pdf) protocols/full-protocols.pdf
 protocols/full-protocols.pdf: $(SRC)
 	rm -f protocols/full-protocols.md
 	for file in protocols/**/*.md cell_culture/**/*.md ; do \
+		echo $$file
 		cat $$file >> protocols/full-protocols.md ; \
 		echo '<div style="page-break-after: always;"></div>' >> protocols/full-protocols.md ; \
 		echo >> protocols/full-protocols.md ; \

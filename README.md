@@ -20,11 +20,11 @@ PDF yourself, install `markdown-pdf` via the node package manager and run
 
 ```
 # On CentOS / Fedora / RHEL
-$ sudo yum install npm
+sudo yum install npm
 
 # On Debian / Ubuntu
-$ sudo apt-get install npm
+sudo apt-get install npm
 
-$ npm install -g md-to-pdf
-$ make
+npm install -g md-to-pdf
+make
 ```
