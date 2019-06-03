@@ -19,6 +19,7 @@ deploy:
     - "protocols.zip"
     - "protocols.tar.gz"
     - "protocols/full-protocols.pdf"
+    - "protocols/legacy-protocols.pdf"
     - "mass_spec/proteomics_workflow.pdf"
   skip_cleanup: true
   api_key:
