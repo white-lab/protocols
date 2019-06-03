@@ -21,7 +21,7 @@
 
 * Anhydrous MeCN (freshest one)
     * Located in flammables cabinet under wet lab hood.
-    
+
  Important note:
 - When labeling, always label two runs or an even number at a time. Do not refreeze aliquots.
 
@@ -29,7 +29,7 @@
 
 1. Spin down lyophilized samples (after SEPPAK amount of peptide should be between 150-200ug per sample).
 2. Resuspend dry aliquots in 35 μL 50mM HEPES in HPLC water.
-3. Vortex and spin down at 13,400 rpm for 1 minute..
+3. Vortex and spin down at 13,400 rpm for 1 minute.
 4. Equilibrate TMT at room temperature for 3 minutes.
 5. Resuspend TMT in 32 μL anhydrous MeCN (enough for 2 labeling reactions!).
 6. Vortex and spin down at 13,400 rpm for 1 minute.
@@ -52,4 +52,4 @@
 14. Store combined sample in -80°C.
 
 Note:
-- For IP afterwards, samples resuspend very easily, and need hardly any PH adjustment. So measure before adding base.
+- For IP afterwards, samples resuspend very easily, and need hardly any pH adjustment. So measure before adding base.

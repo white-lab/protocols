@@ -25,6 +25,6 @@ $ sudo yum install npm
 # On Debian / Ubuntu
 $ sudo apt-get install npm
 
-$ npm install markdown-pdf
+$ npm install -g md-to-pdf
 $ make
 ```

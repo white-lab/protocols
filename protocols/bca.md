@@ -71,6 +71,3 @@
       assay for those samples with a greater dilution.
 8. Multiple the concentration by the total sample volume to find the total
    protein content.
-
-BCA assays can also be quickly analyzed using
-[pyproteome](https://github.com/white-lab/pyproteome) (See `pyproteome.bca`)

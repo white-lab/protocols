@@ -28,7 +28,7 @@
        concentration.
         * For puromycin, use 1 μg / mL.
         * For hygromycin, use 10 μg / mL.
-        * For blastocidin, use X μg / mL.
+        * For blastocidin, use 2 μg / mL.
         * For G418, use X μg / mL.
         * When in doubt, set up a kill curve and use the minimum killing
           concentration with 7 days of selection.

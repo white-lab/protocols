@@ -5,11 +5,9 @@
 * Homogenizer
     * VWR® 200 Homogenizer
 
-* Ice Bucket
-
 ## Reagents
 
-* MilliQ $H_2O$
+* MilliQ Water
    * Fill two 15-mL tubes with 13-14 mL water.
 
 * Methanol

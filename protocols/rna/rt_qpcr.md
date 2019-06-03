@@ -1,4 +1,4 @@
-# qRT-PCR
+# RT-qPCR
 
 ## Equipment
 
@@ -44,7 +44,7 @@
     * Dilution may vary based on primer efficiency.
 3. Prepare master mixes for each row of wells:
     * 12.5 μL Sybr Green
-    * 9 μL Watedr
+    * 9 μL Water
     * 0.75 μL F Primer
     * 0.75 μL R Primer
     * 23 μL Total / Well

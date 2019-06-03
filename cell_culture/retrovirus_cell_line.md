@@ -44,6 +44,8 @@ days.
     1. Plate HEK293 cells in a 6-well at 50-75% confluency (~5 x 10^5 cells / well).
        Use one well for each gene of interest, including GFP, empty vector, and
        a negative control well.
+      * For preparation of large batches of virus in 10cm dishes, plate
+        ~4 x 10^6 cells / dish.
 2. Day 2
     1. Transfect HEK293 cells with vectors for the envelope (VSVG), packaging
        (GAG-Pol), and MIP genes:
@@ -57,6 +59,7 @@ days.
         5. Add 200 μL of FuGene:Media mix to each tube of plasmids.
         6. Wait 15 minutes for FuGene to bind to DNA.
         7. Add all of FuGene:Media:Plasmid mix to each well of HEK293 cells.
+            * For 10cm dishes, double all amounts listed above.
 3. Day 3
     1. Aspirate FuGene-Media-Plasmid mix off of the HEK293 cells.
     2. Add 2 mL of complete media onto the HEK293 cells.
