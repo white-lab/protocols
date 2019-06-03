@@ -27,3 +27,4 @@ deploy:
   on:
     repo: white-lab/protocols
     tags: true
+    skip_existing: false
