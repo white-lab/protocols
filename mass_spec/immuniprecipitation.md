@@ -1,3 +1,0 @@
-# Immuniprecipitation (IP)
-
-## pY IP

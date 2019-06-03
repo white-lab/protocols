@@ -4,10 +4,8 @@
 
 1. PCR Amplification
     1. Design forward and reverse PCR primers to your gene.
-        * Ensure the melting temperature is ...
         * Either your gene contains enzyme cut sites for cloning or your primers
           contain an overhang with the cut site.
-        * ...
     2. Prepare a mix of template and primer DNA:
         * 15 ng template DNA
         * 1 μL of 10 μM of forward and reverse primers
