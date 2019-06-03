@@ -5,7 +5,7 @@
 
 This repository contains notes and protocols for mass spectrometry analysis of
 proteomes. For an introduction to our overall lab workflow, check the
-[workflow](mass_spec/workflow.md) document, and for individual protocols, check
+[workflow](mass_spec/proteomics_workflow.md) document, and for individual protocols, check
 the [protocols](protocols) folder.
 
 ## PDF Documents
