@@ -31,13 +31,13 @@ protocols/full-protocols.pdf: $(SRC)
 	md-to-pdf --config-file build/md_to_pdf.json protocols/full-protocols.md $@
 	rm -f protocols/full-protocols.md
 
-protocols.zip: $(PDFS)
+protocols.zip: $(MERGED_PDFS)
 	zip -r protocols.zip $(MERGED_PDFS)
 
-protocols.tar.gz: $(PDFS)
+protocols.tar.gz: $(MERGED_PDFS)
 	tar -cf protocols.tar.gz $(MERGED_PDFS)
 
-all: protocols.zip protocols.tar.gz
+all: $(PDFS) protocols.zip protocols.tar.gz
 
 clean:
 	rm -f **/*.pdf
