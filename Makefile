@@ -2,7 +2,8 @@
 .DEFAULT_GOAL := all
 SRC  = $(wildcard **/*.md)
 LEGACY = $(wildcard legacy/*.md)
-PDFS = $(SRC:.md=.pdf) protocols/full-protocols.pdf
+MERGED_PDFS = protocols/full-protocols.pdf protocols/legacy-protocols.pdf
+PDFS = $(SRC:.md=.pdf)
 
 
 %.pdf: %.md
@@ -31,10 +32,10 @@ protocols/full-protocols.pdf: $(SRC)
 	rm -f protocols/full-protocols.md
 
 protocols.zip: $(PDFS)
-	zip -r protocols.zip $(PDFS)
+	zip -r protocols.zip $(MERGED_PDFS)
 
 protocols.tar.gz: $(PDFS)
-	tar -cf protocols.tar.gz $(PDFS)
+	tar -cf protocols.tar.gz $(MERGED_PDFS)
 
 all: protocols.zip protocols.tar.gz
 
