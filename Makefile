@@ -11,7 +11,7 @@ PDFS = $(SRC:.md=.pdf)
 
 protocols/legacy-protocols.pdf: $(LEGACY)
 	rm -f protocols/legacy-protocols.md
-	for file in legacy/**/*.md ; do \
+	for file in legacy/*.md ; do \
 		echo $$file ; \
 		cat $$file >> protocols/legacy-protocols.md ; \
 		echo '<div style="page-break-after: always;"></div>' >> protocols/legacy-protocols.md ; \
@@ -22,7 +22,7 @@ protocols/legacy-protocols.pdf: $(LEGACY)
 
 protocols/full-protocols.pdf: $(SRC)
 	rm -f protocols/full-protocols.md
-	for file in protocols/**/*.md cell_culture/**/*.md ; do \
+	for file in protocols/*.md mass_spec/**/*.md protocols/**/*.md cell_culture/**/*.md ; do \
 		echo $$file ; \
 		cat $$file >> protocols/full-protocols.md ; \
 		echo '<div style="page-break-after: always;"></div>' >> protocols/full-protocols.md ; \

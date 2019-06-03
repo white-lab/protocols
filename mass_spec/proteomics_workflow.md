@@ -102,6 +102,7 @@ These peptide mixtures may be directly injected into a mass spectrometer, howeve
 3. Dilute samples in PBS for a total of 60 μL in a PCR 8-tube strip.
     * For urea lysates, dilutions of 1:4 or 1:8 should be used. More concentrated sample may need larger (i.e. 1:10, 1:20) dilutions.
     * For RIPA lysates, dilute at least 1:10 in PBS.
+    * Ensure dilutions are well mixed and free of lipid and debris to avoid interference.
     * Make an extra set of 50 μL undiluted lysate in case BCA assay needs to be repeated, keep at 4°C.
 4. Mix BCA Reagents A and B in 50 mL reagent reservoir.
     * 10 mL A : 200 μL B (Half plate)
@@ -122,21 +123,14 @@ These peptide mixtures may be directly injected into a mass spectrometer, howeve
 ### Data Processing
 
 1. Open up the plate reader output in Excel or a comparable spreadsheet program.
-2. Plot the standards concentrations vs. absorbance for each row of BSA
-   (including 0 mg / mL for PBS alone).
-3. Fit a linear regression model to this distribution.
-    1. If the correlation (R^2) is less than X or the scatter plot appears to be
-       non-linear, redo the assay.
-4. Extract the slope (m) and y-intercept (b) for the fitted line.
-5. Calculate the protein concentrations for each sample:
-   concentration = (absorbance - b) / m
-6. Multiple the protein concentrations by their dilution factor.
-7. If the calculated concentrations for any sample vary by more than 50%, redo the
-   assay for those samples.
-   * Lipids and debris from samples may interfere with absorbance readings
-   * If the concentrations are outside the standards concentrations, redo the
-      assay for those samples with a greater dilution.
-8. Multiple the concentration by the total sample volume to find the total
+2. Plot the standards concentrations vs. absorbance for each row of BSA (including 0 mg / mL for PBS alone).
+3. Fit a linear regression model to this distribution. Extract the slope (m) and y-intercept (b) for the fitted line.
+4. Calculate the protein concentrations for each sample:
+   * concentration = (absorbance - b) / m * dilution factor
+   * If the calculated concentrations for any sample vary by more than 50% or are outside the standard concentration range, redo the assay for those samples.
+   * If the correlation (R^2) is less than X or the scatter plot appears to be
+      non-linear, redo the assay.
+6. Multiple the concentration by the total sample volume to find the total
    protein content.
 
 <div style="page-break-after: always;"></div>
