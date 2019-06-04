@@ -25,7 +25,7 @@ protocols/Legacy_Protocols.pdf: $(LEGACY)
 
 protocols/Full_Protocols.pdf: $(SRC)
 	rm -f $(FULL_MD_PATH)
-	for file in protocols/*.md mass_spec/**/*.md protocols/**/*.md cell_culture/**/*.md ; do \
+	for file in protocols/*.md protocols/**/*.md mass_spec/**/*.md cell_culture/*.md cell_culture/**/*.md ; do \
 		echo $$file ; \
 		cat $$file >> $(FULL_MD_PATH) ; \
 		echo '<div style="page-break-after: always;"></div>' >> $(FULL_MD_PATH) ; \

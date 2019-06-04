@@ -1,4 +1,4 @@
-# pY High-Select Fe-NTA Phosphopeptide Enrichment
+# pY High-Select Fe-NTA Enrichment
 
 ## Equipment & Reagents
 
