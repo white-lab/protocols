@@ -1,29 +1,18 @@
 # Making an IMAC Column
 
-## Equipment
+## Equipment & Reagents
 
 * Pressure Bomb
-
 * Stir Plate
-
 * Heat Gun (Optional) / Oven (Optional)
-
-## Reagents
-
 * Capillary Tube
     * OD: 360 μm, ID: 200 μm (Polymicro Technologies cat. no. TSP200350)
-
 * Kasil
-
 * Formamide
-
 * 100% Acetonitrile
-
 * Ultra-pure / Nano-pure / Mass-Spec Grade Water
-
 * Poros 20 MC beads
     * Applied Biosystems cat. no. 1-5429-06
-
 * Stir Bar
 
 ## Steps
