@@ -9,16 +9,11 @@ inactivates sodium orthovanadate.
 
 Reference: Gordon, J.: Methods Enzymol. (1991) 201, 477-482
 
-## Equipment
+## Equipment & Reagents
 
 * Water bath
-
-## Reagents
-
 * 200 mM Sodium Orthovanadate
-
 * 1 N NaOH
-
 * 1 N HCl
 
 ## Steps
