@@ -2,7 +2,7 @@
 .DEFAULT_GOAL := all
 SRC  = $(wildcard **/*.md)
 LEGACY = $(wildcard legacy/*.md)
-MERGED_PDFS = protocols/full-protocols.pdf protocols/legacy-protocols.pdf
+MERGED_PDFS = protocols/Full_Protocols.pdf protocols/Legacy_Protocols.pdf
 PDFS = $(SRC:.md=.pdf)
 
 
