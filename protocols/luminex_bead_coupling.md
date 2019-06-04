@@ -8,7 +8,7 @@ Reagent locations written with respect to the Lauffenburger lab.
 * Coupling Buffer (50mM HEPES, pH 7.4) (yellow rack, AZ bench)
 * PBS
 * PBS / 1% BSA
-* EDC (Sarah -20 °C, purple Eppendorfs)
+* EDC (Sarah -20°C, purple Eppendorfs)
 * S-NHS (Far left fridge)
 * 100 μL magnetic beads (light sensitive)
 
@@ -32,7 +32,7 @@ Reagent locations written with respect to the Lauffenburger lab.
    0.1 mg / mL in a volume of 100 μL.
 10. Centrifuge beads for 3 minutes at 10,000 g and discard supernatant.
 11. Add diluted protein solution.
-12. Agitate tube with activated beads and protein solution overnight at 4 °C at
+12. Agitate tube with activated beads and protein solution overnight at 4°C at
     900 rpm in the dark (wrap in foil).
 13. Wash beads 3x with PBS / BSA.
 14. Resuspend bead pellet in 1mL PBS / BSA.

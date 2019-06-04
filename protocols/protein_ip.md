@@ -28,7 +28,7 @@
         * 46 mL 10% SDS
         * 16.66 mL 0.75 M Tris pH 6.8
         * 5 mL 1% Bromophenol blue
-        * Bring up to 100 mL with MilliQ $H_2O$
+        * Bring up to 100 mL with MilliQ Water
         * Store at room temperature
     * Add β-mercaptoethanol to 10% just before use
 

@@ -4,14 +4,14 @@ Taken from MFT, 11/21/03.
 
 ## Equipment
 
-* 37 °C shaking incubator
+* 37°C shaking incubator
     * Located down the hallway between the Yaffe and Hynes labs.
 
-* 37 °C plate incubator
+* 37°C plate incubator
     * Located down the hallway by Yaffe Lab.
 
 * Heat Block / Water Bath
-    * Pre-heat to 42 °C.
+    * Pre-heat to 42°C.
 
 ## Reagents
 
@@ -20,7 +20,7 @@ Taken from MFT, 11/21/03.
 
 * Competent E. coli cells
     * Use DH5α in most cases.
-        * Located in -80 °C.
+        * Located in -80°C.
     * If you want to cut at XbaI or other DAM- enzyme sites, use SCS110 cell
       which are deficient in Dam and Dcm methylases.
 
@@ -35,7 +35,7 @@ Taken from MFT, 11/21/03.
 
 1. Day 1
     1. Take cells out of freezer, keep on ice.
-    2. Turn on water bath to 42 °C.
+    2. Turn on water bath to 42°C.
     3. Put competent cells in a 1.5 mL tube.
         * Use 50 μL for a DNA construct.
         * Use 100 μL for a ligation.
@@ -45,7 +45,7 @@ Taken from MFT, 11/21/03.
     5. Add 50 ng (2 μL) of circular DNA into E. coli cells.
         * DH5α are available and prepared within the lab. Large plasmids or plasmids with repeats may require other strains.
     6. Incubate on ice for 10 minutes to thaw competent cells.
-    7. Put tubes with DNA and E. coli into water bath at 42 °C for 45 seconds.
+    7. Put tubes with DNA and E. coli into water bath at 42°C for 45 seconds.
         * Make sure to be exact with your timing, too long or too short will
           ruin the transformation.
     8. Put tubes back on ice for 2 minutes to reduce damage to cells.

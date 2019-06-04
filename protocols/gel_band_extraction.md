@@ -41,7 +41,7 @@ according to the enzyme.
 ## Steps
 
 1. Day 1
-    1. Cut out gel band(s), dice into 1 $mm^3$ pieces, collect in
+    1. Cut out gel band(s), dice into 1 cubic mm pieces, collect in
        microcentrifuge tube.
         * Use new razor band, and a glass plate cleaned with methanol.
     2. If Coommassie stained, destain with 40% EtOH, 10% AA for 1 hour.
@@ -50,7 +50,7 @@ according to the enzyme.
     5. Remove wash buffer.
     6. Dehydrate gel pieces in speed-vac for 15 minutes.
     7. Add 100 μL of 20 mM DTT.
-    8. Incubate at 56 °C for 1 hour.
+    8. Incubate at 56°C for 1 hour.
     9. Cool samples to room temperature, spin down, and remove DTT solution.
     10. Add 70 μL IAA, place in dark at room temperature for 45 minutes.
     11. Remove IAA.
@@ -59,7 +59,7 @@ according to the enzyme.
     14. Dehydrate with 100 μL 100% MeCN, shake for 5 minutes.
     15. Remove MeCN.
     16. Speed-vac for 10 minutes.
-        * Dried samples can be stored at 4 °C until digestion begins.
+        * Dried samples can be stored at 4°C until digestion begins.
     17. Add 50 μL trypsin.
     18. Incubate on ice for 45 minutes.
     19. Remove supernatant.
@@ -77,6 +77,6 @@ according to the enzyme.
         2. Dehydrate with 45 μL 100% MeCN, shake for 15 minutes.
         3. Collect supernantant.
     4. Speed-vac until 1-5 μL remains (1 - 2 hours).
-    5. Store at -20 °C until ready for MS analysis.
+    5. Store at -20°C until ready for MS analysis.
     6. Add 30 μL 0.1% AA just before MS analysis.
     7. Load directly onto an acidified pre-column.

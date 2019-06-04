@@ -12,19 +12,19 @@ Silver stains allow you to visual total protein content in a gel.
 * Piece Silver Stain for MS (cat. no. 24600)
 
 * Fixing Solution
-    * 60% MilliQ $H_2O$
+    * 60% MilliQ Water
     * 30% Ethanol
     * 10% Acetic Acid
 
 * Stop Solution
-    * 95% MilliQ $H_2O$
+    * 95% MilliQ Water
     * 5% Acetic Acid
 
 * Ethanol Wash
-    * 90% MilliQ $H_2O$
+    * 90% MilliQ Water
     * 10% Ethanol
 
-* Ultrapure water (MilliQ?)
+* Ultrapure Water
 
 ## Steps
 

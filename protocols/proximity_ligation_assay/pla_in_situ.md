@@ -176,7 +176,7 @@ IF experiments.
 | TBS                |    | 10X         | 1X          | 10       |
 | SSS DNA            |    | 250 ng / μL | 2.5 ng / μL | 100      |
 | Sterile Goat Serum |    | 100%        | 10%         | 10       |
-| $H_2O$             |    |             |             |          |
+| Water              |    |             |             |          |
 
 * PLA Probe Solution
 
@@ -191,7 +191,7 @@ IF experiments.
 |:---------|:---|:------|:------|:---------|
 | TBS      |    | 10X   | 1X    | 10       |
 | Tween-20 |    | 20%   | 0.05% | 400      |
-| $H_2O$   |    |       |       |          |
+| Water    |    |       |       |          |
 
 * Ligation Buffer
 
@@ -206,7 +206,7 @@ IF experiments.
 | ATP                  |        | 100 mM     | 1 mM         | 100      |
 | Connector 1          |        | 10 μM      | 125 nM       | 80       |
 | Connector 2          |        | 10 μM      | 125 nM       | 80       |
-| $H_2O$               |        |            |              |          |
+| Water                |        |            |              |          |
 | T4 Ligase            |        | 1 U / μL   | 0.05 U / μL  | 20       |
 
 * RCA Buffer
@@ -220,7 +220,7 @@ IF experiments.
 | Tween-20          |        | 20%        | 0.05%        | 400      |
 | DTT               | 154.24 | 100 mM     | 1 mM         | 100      |
 | dNTP              |        | 10 mM      | 250 μM       | 40       |
-| $H_2O$            |        |            |              |          |
+| Water             |        |            |              |          |
 | phi-Pol           |        | 10 U / μL  | 0.125 U / μL | 80       |
 
 * Detection Buffer
@@ -232,12 +232,12 @@ IF experiments.
 | Tween-20      |        | 20%        | 0.05%        | 400      |
 | Hoescht 33342 | 615.99 | 1 mM       | 1 μM         | 1000     |
 | 555 Detection |        | 5 μM       | 25 nM        | 200      |
-| $H_2O$        |        |            |              |          |
+| Water         |        |            |              |          |
 
 * Notes:
     * SSS DNA stock is 10 mg / mL -> Dilute 1:40 to 250 ng / μL
-    * 10X SSC: 11.03 g Sodium Citrate, 21.9 g NaCl, 250 mL $H_2O$, pH 7
+    * 10X SSC: 11.03 g Sodium Citrate, 21.9 g NaCl, 250 mL MilliQ Water, pH 7
     * Make 1:5 Tween-20 dilution for working stock
-    * Hoescht 33342 dissolved in $H_2O$
+    * Hoescht 33342 dissolved in Water
     * Circularized oligos dissolved to 10 μM working stock (TE, pH 7)
     * Detection olgios dissolved to 5 μM working stocking (TE, pH 7)

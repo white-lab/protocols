@@ -34,10 +34,10 @@
     * 10 mM PBS, pH 7.4
 
 * Conjugation Buffer
-    * 1.21 g $NaH_2PO_4·H_2O$
-    * 0.32 g $Na_2HPO_4·7H_2O$
-    * 0.88 g $NaCl$
-    * 100 ml $H_2O$
+    * 1.21 g Sodium phosphate monobasic monohydrate (NaH2PO4 · H2O)
+    * 0.32 g Disodium hydrogen phosphate heptahydrate (Na2HPO4 · 7H2O)
+    * 0.88 g NaCl
+    * 100 ml MilliQ Water
     * pH 6.0
 
 ## Steps

@@ -12,8 +12,8 @@
         * 2X Phusion polymerase mix
         * Bring up to 20 μL total volume with DNA/RNA-ase free water
     3. Place PCR tube in a thermocycler
-    4. Run a protocol to anneal, amplify for 30 cyclers, and finally hold at 4 °C.
-    5. PCR products can be stored at -20 °C or immediately run on a gel.
+    4. Run a protocol to anneal, amplify for 30 cyclers, and finally hold at 4°C.
+    5. PCR products can be stored at -20°C or immediately run on a gel.
 2. Agarose Gel Purification
     1. Prepare a 1% agarose gel.
         1. Mix 70 μL TAE buffer, .7 g agarose, and 7 μL GelRed in an Erlenmeyer
@@ -40,7 +40,7 @@
         band as finely as possible.
     9. Transfer gel fragment into 1.5 mL tube.
     10. Follow QIAEX II Gel Extraction Kit protocol to extract DNA from gel.
-    11. Store DNA elution at -20 °C or use immediately for ligation.
+    11. Store DNA elution at -20°C or use immediately for ligation.
 3. DNA Ligation
     1. Use a nano-spectrometer to measure the concentrations of your plasmids
        and insert. Calculate the molar ratio by dividing the mass of both by

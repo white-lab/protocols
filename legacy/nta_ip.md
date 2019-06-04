@@ -11,7 +11,7 @@
 * Ni-NTA Superflow Ni-charged resin (Qiagen cat. no. 30410)
     * 25 mL is more than sufficient (200 μL per run)
 
-* MilliQ $H_2O$
+* MilliQ Water
 
 * 100 mM EDTA pH 8.9
 
@@ -31,19 +31,19 @@
 
 1. Aliquot 200 μL Ni-NTA slurry (100 μL resin) into a 1.5 mL eppendorf tube
    using a wide-tipped pipette.
-2. Rinse beads 3x with 800 μL MilliQ $H_2O$.
+2. Rinse beads 3x with 800 μL MilliQ Water.
     * For all rinses, spin at 6500 rpm for 1 minute.
     * Bead loss due to washes is acceptable and taken into account with the
       starting volume of beads.
 3. Rinse beads 2x with 800 μL EDTA to strip away nickel.
     * Incubate samples for 15 minutes on rotator between each addition of EDTA
       and the spin-down step.
-4. Rinse beads 3x with 800 μL MilliQ $H_2O$ to remove excess EDTA.
+4. Rinse beads 3x with 800 μL MilliQ Water to remove excess EDTA.
 5. Apply 800 μL of iron chloride solution to beads and incubate for 30 - 45
    minutes on rotator.
     * If running an IP, begin the final wash and elution steps immediately
       after adding iron to beads.
-6. Wash beads 3x with 800 μL MilliQ $H_2O$ to remove excess iron.
+6. Wash beads 3x with 800 μL MilliQ Water to remove excess iron.
 7. Wash beads 1x with 800 μL 0.1% TFA to acidify solution.
 8. Resuspend beads in 50 μL 0.1% TFA.
 9. Acidify pY IP elution (70 μL) with 10 μL 10% TFA.
