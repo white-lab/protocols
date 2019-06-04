@@ -180,9 +180,9 @@ These peptide mixtures may be directly injected into a mass spectrometer, howeve
 * BD Syringe
     * Located on shelf next to chemical reagents.
 * 99.99% Glacial Acetic Acid
-* 0.1% Acetic Acid
-* 90% Acetonitrile, 0.1% Acetic Acid
-* 40% Acetonitrile, 0.1% Acetic Acid
+* 0.1% Acetic Acid, MilliQ Water
+* 90% Acetonitrile, 0.1% Acetic Acid, MilliQ Water
+* 40% Acetonitrile, 0.1% Acetic Acid, MilliQ Water
 
 ### Steps
 
