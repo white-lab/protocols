@@ -9,27 +9,27 @@ PDFS = $(SRC:.md=.pdf)
 %.pdf: %.md
 	md-to-pdf --config-file build/md_to_pdf.json $< $@
 
-protocols/legacy-protocols.pdf: $(LEGACY)
-	rm -f protocols/legacy-protocols.md
+protocols/Legacy_Protocols.pdf: $(LEGACY)
+	rm -f protocols/Legacy_Protocols.md
 	for file in legacy/*.md ; do \
 		echo $$file ; \
-		cat $$file >> protocols/legacy-protocols.md ; \
-		echo '<div style="page-break-after: always;"></div>' >> protocols/legacy-protocols.md ; \
-		echo >> protocols/legacy-protocols.md ; \
+		cat $$file >> protocols/Legacy_Protocols.md ; \
+		echo '<div style="page-break-after: always;"></div>' >> protocols/Legacy_Protocols.md ; \
+		echo >> protocols/Legacy_Protocols.md ; \
 	done
-	md-to-pdf --config-file build/md_to_pdf.json protocols/legacy-protocols.md $@
-	rm -f protocols/legacy-protocols.md
+	md-to-pdf --config-file build/md_to_pdf.json protocols/Legacy_Protocols.md $@
+	rm -f protocols/Legacy_Protocols.md
 
-protocols/full-protocols.pdf: $(SRC)
+protocols/Full_Protocols.pdf: $(SRC)
 	rm -f protocols/full-protocols.md
 	for file in protocols/*.md mass_spec/**/*.md protocols/**/*.md cell_culture/**/*.md ; do \
 		echo $$file ; \
-		cat $$file >> protocols/full-protocols.md ; \
-		echo '<div style="page-break-after: always;"></div>' >> protocols/full-protocols.md ; \
-		echo >> protocols/full-protocols.md ; \
+		cat $$file >> protocols/Full_Protocols.md ; \
+		echo '<div style="page-break-after: always;"></div>' >> protocols/Full_Protocols.md ; \
+		echo >> protocols/Full_Protocols.md ; \
 	done
-	md-to-pdf --config-file build/md_to_pdf.json protocols/full-protocols.md $@
-	rm -f protocols/full-protocols.md
+	md-to-pdf --config-file build/md_to_pdf.json protocols/Full_Protocols.md $@
+	rm -f protocols/Full_Protocols.md
 
 protocols.zip: $(MERGED_PDFS)
 	zip -r protocols.zip $(MERGED_PDFS)
