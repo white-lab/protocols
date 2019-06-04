@@ -36,7 +36,7 @@ These peptide mixtures may be directly injected into a mass spectrometer, howeve
 ### Cell Culture Lysis
 
 1. Keep cells on ice for entire procedure.
-2. If cell are in culture, pour off the media into a beaker.
+2. If cell are in culture, pour off or aspirate the media.
 3. Rinse the cells with ice cold PBS
 4. Pour off or aspirate PBS.
 5. Lyse cells in ice cold Urea + optional inhibitors
