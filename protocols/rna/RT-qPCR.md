@@ -8,7 +8,7 @@
 * 384 qPCR Plate
 * Plate Seal
 * Sybr Green Master Mix
-    * Located in -20°C, middle shelf.
+    * Located in -20°C, top shelf in "Common qPCR" box.
     * Keep stock on ice.
 * Forward and Reverse Primers
     * Primers for genes may be found on [Harvard's PrimerBank](https://pga.mgh.harvard.edu/primerbank/)
