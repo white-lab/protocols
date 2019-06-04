@@ -4,32 +4,35 @@ SRC  = $(wildcard **/*.md)
 LEGACY = $(wildcard legacy/*.md)
 MERGED_PDFS = protocols/Full_Protocols.pdf protocols/Legacy_Protocols.pdf
 PDFS = $(SRC:.md=.pdf)
+FULL_MD_PATH = protocols/Full_Protocols.md
+LEGACY_MD_PATH = protocols/Legacy_Protocols.md
+MD_TO_PDF_JSON = md_to_pdf.json
 
 
 %.pdf: %.md
 	md-to-pdf --config-file md_to_pdf.json $< $@
 
 protocols/Legacy_Protocols.pdf: $(LEGACY)
-	rm -f protocols/Legacy_Protocols.md
+	rm -f $(LEGACY_MD_PATH)
 	for file in legacy/*.md ; do \
 		echo $$file ; \
-		cat $$file >> protocols/Legacy_Protocols.md ; \
-		echo '<div style="page-break-after: always;"></div>' >> protocols/Legacy_Protocols.md ; \
-		echo >> protocols/Legacy_Protocols.md ; \
+		cat $$file >> $(LEGACY_MD_PATH) ; \
+		echo '<div style="page-break-after: always;"></div>' >> $(LEGACY_MD_PATH) ; \
+		echo >> $(LEGACY_MD_PATH) ; \
 	done
-	md-to-pdf --config-file md_to_pdf.json protocols/Legacy_Protocols.md $@
-	rm -f protocols/Legacy_Protocols.md
+	md-to-pdf --config-file $(MD_TO_PDF_JSON) $(LEGACY_MD_PATH) $@
+	rm -f $(LEGACY_MD_PATH)
 
 protocols/Full_Protocols.pdf: $(SRC)
-	rm -f protocols/full-protocols.md
+	rm -f $(FULL_MD_PATH)
 	for file in protocols/*.md mass_spec/**/*.md protocols/**/*.md cell_culture/**/*.md ; do \
 		echo $$file ; \
-		cat $$file >> protocols/Full_Protocols.md ; \
-		echo '<div style="page-break-after: always;"></div>' >> protocols/Full_Protocols.md ; \
-		echo >> protocols/Full_Protocols.md ; \
+		cat $$file >> $(FULL_MD_PATH) ; \
+		echo '<div style="page-break-after: always;"></div>' >> $(FULL_MD_PATH) ; \
+		echo >> $(FULL_MD_PATH) ; \
 	done
-	md-to-pdf --config-file md_to_pdf.json protocols/Full_Protocols.md $@
-	rm -f protocols/Full_Protocols.md
+	md-to-pdf --config-file $(MD_TO_PDF_JSON) $(FULL_MD_PATH) $@
+	rm -f $(FULL_MD_PATH)
 
 protocols.zip: $(MERGED_PDFS)
 	zip -r protocols.zip $(MERGED_PDFS)
