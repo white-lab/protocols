@@ -16,9 +16,9 @@ script:
 deploy:
   provider: releases
   file:
-    - "mass_spec/Proteomics_Workflow.pdf"
+    - "mass_spec/Proteomics_Protocols.pdf"
     - "protocols/Cell_Culture_Protocols.pdf"
-    - "protocols/Full_Protocols.pdf"
+    - "protocols/Wet_Lab_Protocols.pdf"
     - "protocols/Legacy_Protocols.pdf"
     - "protocols.zip"
     - "protocols.tar.gz"

@@ -1,14 +1,14 @@
 # Mass Spectrometry Standards
 
-## Pre-column
-
-10 fmol BSA, load for 10 minutes at 500 psi first time, 5 minutes after. Run on
-XL or QE using prep gradient.
-
 ## Analytical Column
 
 10 fmol BSA, load for 10 minutes at 1 kpsi. Run on XL or QE using prep
 gradient.
+
+## Pre-column
+
+10 fmol BSA, load for 10 minutes at 500 psi first time, 5 minutes after. Run on
+XL or QE using prep gradient.
 
 ## IMAC Column
 
