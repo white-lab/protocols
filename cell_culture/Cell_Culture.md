@@ -55,6 +55,8 @@ To count the number of cells in a solution, follow these steps:
 10. Repeat steps 4-9 for other side of slide.
 11. Check duplicate readings are similar to one another.
 
+<div style="page-break-after: always;"></div>
+
 ## Changing Media
 
 Cells require a ready stream of new media to grow well. Most cells should have
@@ -102,6 +104,8 @@ To split cells, follow these steps:
     * Use enough media to give 10 mL final concentration for 10 cm^2 dishes.
 13. Shake plate left-right, then back-forth to distribute evenly on plate.
 
+<div style="page-break-after: always;"></div>
+
 ## Freezing Cells
 
 To freeze cells down, first follow the steps of lifting cells up and moving them
@@ -123,10 +127,3 @@ into a 15 mL conical tube. Once you have cells in solution, follow these steps:
 8. Store case in -80°C overnight.
 9. Move tubes to cell storage freezer.
     * Located in cell culture stock room.
-
-## Useful numbers
-
-| Cell line | Plate Size | Seeding Density |
-|:----------|:-----------|:----------------|
-| BV-2      | 10 cm      | 100,000         |
-| HEK 293T  | 10 cm      | 200,000         |
