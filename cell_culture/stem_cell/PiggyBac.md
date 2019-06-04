@@ -1,5 +1,14 @@
 # PiggyBac transformation of Stem Cells
 
+## Equipment & Reagents
+
+* Accutase
+* mTesr Media
+* OPTImem
+* Mirus LT1 Transfection Reagent
+* pEF1a-hyPBase (PiggyBac Transposase)
+* PB-\<Gene of Interest\>
+
 ## Steps
 
 1. Day 0:
@@ -14,10 +23,10 @@
 2. Day 1:
     1. Morning of transfection (Preferably before 11am):
     2. For each transfection:
-        1. Add 200 μL of OPTImem to eppendorf tube / reaction.
-        2. Add 1.5 μg pEF1a-hyPBase (piggybac transposase).
+        1. Add 200 μL of OPTImem to 1.7 mL tube.
+        2. Add 1.5 μg pEF1a-hyPBase.
         3. Add 2 μg of PB-\<Gene of Interest\>.
-        4. Add 10.5 μL Mirus LT1 transfection reagent.
+        4. Add 10.5 μL Mirus LT1.
     3. Wait 20 minutes at room temperature.
     4. Add transfect mixture to cells (Don't change media!).
     5. After 6 hours: Aspirate and add 2 mL media + rock inhibitor to cells.
