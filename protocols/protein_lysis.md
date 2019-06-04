@@ -15,8 +15,8 @@
         * (in fridge at farthest end)
         * Only need phosphatase inhibitor if doing phopho measurements or Western
         * 10 mL NP4O lysis buffer (pH 7.5)
-        * Contains 20mM TrisHCl, 2mM EDTA, 150mM NaCl, 1% NP40, 10% glycerol
-            * Weigh out TrisHCl/NaCl ; dilute EDTA
+        * Contains 20mM Tris HCl, 2mM EDTA, 150mM NaCl, 1% NP40, 10% glycerol
+            * Weigh out Tris HCl/NaCl ; dilute EDTA
 
 * PBS (non-sterile)
 
@@ -31,9 +31,9 @@
 
 ## Steps
 
-1. Day before: if necessary, make lysis buffer (100 ml at a time, store indefinitely at 4 °C)
+1. Day before: if necessary, make lysis buffer (100 ml at a time, store indefinitely at 4°C)
 2. Day of: add inhibitors to 10 ml lysis buffer
-    1. Vortex so inhibitor dissolves faster, can store for ~1 week at 4 °C
+    1. Vortex so inhibitor dissolves faster, can store for ~1 week at 4°C
 3. On ice (ice room key by TC white board):
     1. Remove 800 μL media from source wells and save in 1st deep well plate
     2. Aspirate rest of media
@@ -48,10 +48,10 @@
         2. Make balance with H2O using empty deep well plate near ViCell
     2. Take 600 μl sup to store in 2nd deep well plate
         1. Cover with foiled plate sealer (in right drawer, more near pH meter)
-        2. Store at -20 °C
+        2. Store at -20°C
 6. Lysate: Transfer 170 μL lysate from each well to 2nd 96 well plate
     1. Centrifuge at max speed for 20 min – to get only protein in this supernatant
         1. Make balance with H2O using empty 96 well plate in right drawer
     2. Take 125 μl sup to store in 2nd 96 well plate
         1. Cover with foiled plate sealer (in right drawer, more near pH meter)
-        2. Store at -20 °C
+        2. Store at -20°C

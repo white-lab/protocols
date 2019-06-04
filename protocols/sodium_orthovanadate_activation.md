@@ -31,4 +31,4 @@ Reference: Gordon, J.: Methods Enzymol. (1991) 201, 477-482
 4. Cool the solution to room temperature.
 5. Readjust the pH to 10.0 and repeat steps 3-4 until the solution remains
    colorless and the pH stabilizes at 10.0.
-6. Store the activated solution as aliquots at -20 °C.
+6. Store the activated solution as aliquots at -20°C.

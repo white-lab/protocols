@@ -12,9 +12,9 @@
 
 * Ultra-pure / Nano-pure / Mass-Spec Grade Water
 
-* Fe(III) Chloride ($FeCl_3$)
+* Fe(III) Chloride
     * Sigma-Aldrich 451649
-    * Located in fume hood in wet lab within desicator.
+    * Located in fume hood in wet lab within desiccator.
 
 * 0.1% Acetic Acid
 
@@ -62,4 +62,4 @@
         * This can be done at 2+ μL / min, just make sure whatever pressure you
           use does not cause leaks.
 8. Transfer the pre-column to another pressure bomb and wash with Acetic Acid
-   for 15-20 min to remove residual phosphosate buffer.
+   for 15-20 min to remove residual phosphate buffer.

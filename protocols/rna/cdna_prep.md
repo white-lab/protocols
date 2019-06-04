@@ -26,5 +26,5 @@
 5. Cool for 1 minute at RT and then spin down the RNA until the rotor reaches
    10-12,000 rpm.
 6. Add 8 μL of the appropriate master mix to the RNA samples and incubate at
-   37 °C for 1 hour.
-7. Quick spin and store at -20 °C until ready for qPCR.
+   37°C for 2 hours (Preferably use a RT sequence on a thermocycler).
+7. Quick spin and store at -20°C until ready for qPCR.

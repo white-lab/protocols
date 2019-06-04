@@ -1,4 +1,4 @@
-# Transferring Plasmids by PCR
+# PCR-Digestion Ligation
 
 ## Steps
 
@@ -26,7 +26,7 @@
         5. Add 6 μL DNA ladder to left-most lane of gel.
     2. Add 6X gel loading dye to PCR products and transfer them to the gel using
        thin pipette loading tips.
-    3. Cover electrophesis chamber and attach to electrical source.
+    3. Cover electrophoresis chamber and attach to electrical source.
     4. Run gel at 100 V for 45 min - 1 hour.
         * Check for bubbles in chamber to indicate electrical current.
         * Gels can be run for a shorter amount of time if just purifying PCR
@@ -42,7 +42,7 @@
     10. Follow QIAEX II Gel Extraction Kit protocol to extract DNA from gel.
     11. Store DNA elution at -20 °C or use immediately for ligation.
 3. DNA Ligation
-    1. Use a nanospectrometer to measure the concentrations of your plasmids
+    1. Use a nano-spectrometer to measure the concentrations of your plasmids
        and insert. Calculate the molar ratio by dividing the mass of both by
        their length.
     2. Use 200 ng of vector at a 1:3 ratio with insert DNA for the following
@@ -54,9 +54,10 @@
         * 1 μL Antarctic Phosphatase + 1 μL Antarctic Phosphatase Buffer to
           vectors to avoid re-ligation.
         * Bring volume up to 10 μL using DNase-free water
-    4. Incubate tubes at 37 °C for 30 minutes.
-    5. Incubate tubes at 80 °C for 2 minutes to heat-inactivate the enzymes.
+    4. Incubate tubes at 37°C for 30 minutes.
+    5. Incubate tubes at 80°C for 2 minutes to heat-inactivate the enzymes.
     6. Transfer insert solutions to their appropriate vectors.
+        * Include control reactions without insert or vector to check for plasmid background and re-ligation.
     7. Add 1 μL T4 DNA ligase and 2 μL 10X DNA ligase buffer to vector-insert
        mixes.
     8. Incubate at room temperature for 10 minutes.

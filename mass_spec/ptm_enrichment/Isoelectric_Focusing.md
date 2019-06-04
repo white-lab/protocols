@@ -32,24 +32,24 @@ cathode and anode, and one for the sample. The sample should be loaded at 670
     * 8.4 grams Zoom Urea
     * 3.0 grams Zoom Thiouera
     * 3.3 mL Novex IEF Anode buffer (50X)
-    * Adjust the volume to 20 mL with $dH_2O$
+    * Adjust the volume to 20 mL with MilliQ Water.
     * Check pH is 3.0
 
 * Cathode Buffer
     * 8.4 grams Zoom Urea
     * 3.0 grams Zoom Thiourea
     * 2.0 mL Novex IEF Cathode buffer pH 3 - 10 (10X)
-    * Adjust the volume to 20 mL with $dH_2O$
+    * Adjust the volume to 20 mL with MilliQ Water.
     * Check pH is 10.4
 
 * 2 M DTT
-    * Dissolve 0.03 grams DTT in 100 μL $dH_2O$
+    * Dissolve 0.03 grams DTT in 100 μL MilliQ Water.
 
 * IP Supernatant
     * 670 μL per chamber
     * Add 2 M DTT at 1:100 of total volume
     * Add ampholytes at 1:100 of total volume
-    * Add $dH_2O$ to fill volume up to the total volume calculated for all
+    * Add MilliQ Water to fill volume up to the total volume calculated for all
       chambers
 
 ## Steps
@@ -64,7 +64,7 @@ cathode and anode, and one for the sample. The sample should be loaded at 670
     * 600 V for 80 minutes.
     * Current limit is 2 mA and power limit is 2 W.
 6. After 3 hours, remove the sample chamber and collect each fraction.
-7. Wash each chamber with 500 μL dH_2O and add each wash to the appropriate
+7. Wash each chamber with 500 μL MilliQ Water and add each wash to the appropriate
    fraction.
 8. Store samples at -80°C or continue with Sep-Paking.
     1. If Sep-Paking, acidify samples with 500 μL Formic Acid.

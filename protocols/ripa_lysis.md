@@ -22,7 +22,7 @@
         * 25 mL 10% DOC
         * 25 mL 10% Triton X100
         * 5 mL 500 mM EDTA
-        * Bring up to 250 mL with MilliQ $H_2O$, store at 4 °C
+        * Bring up to 250 mL with MilliQ Water, store at 4°C
 
 * Halt: Protease and phosphatase inhibitor cocktail
     * Pierce cat. no. 78426
@@ -48,4 +48,4 @@
 7. Use cell scraper to lift cells off the plate.
     * Keep plate tilted and allow lysis buffer to pool at the bottom.
 8. Transfer lysate to labeled tube.
-9. Store lysates in the -80 °C freezer.
+9. Store lysates in the -80°C freezer.
