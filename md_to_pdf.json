@@ -1,9 +1,9 @@
 {
   "pdf_options": {
     "format": "A4",
-    "margin": "20mm 22mm",
+    "margin": "20mm 23mm",
     "displayHeaderFooter": true,
-    "stylesheet": "https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/2.10.0/github-markdown.min.css",
+    "stylesheet": "https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/3.0.1/github-markdown.min.css",
     "headerTemplate": "<section></section>",
     "footerTemplate": "<style>section { margin: 0 auto; font-size: 10px; }</style><section><div><span class='date'/></span> - <span class='pageNumber'></span> / <span class='totalPages'></span></div></section>"
   }

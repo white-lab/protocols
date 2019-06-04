@@ -7,7 +7,7 @@ PDFS = $(SRC:.md=.pdf)
 
 
 %.pdf: %.md
-	md-to-pdf --config-file build/md_to_pdf.json $< $@
+	md-to-pdf --config-file md_to_pdf.json $< $@
 
 protocols/Legacy_Protocols.pdf: $(LEGACY)
 	rm -f protocols/Legacy_Protocols.md
@@ -17,7 +17,7 @@ protocols/Legacy_Protocols.pdf: $(LEGACY)
 		echo '<div style="page-break-after: always;"></div>' >> protocols/Legacy_Protocols.md ; \
 		echo >> protocols/Legacy_Protocols.md ; \
 	done
-	md-to-pdf --config-file build/md_to_pdf.json protocols/Legacy_Protocols.md $@
+	md-to-pdf --config-file md_to_pdf.json protocols/Legacy_Protocols.md $@
 	rm -f protocols/Legacy_Protocols.md
 
 protocols/Full_Protocols.pdf: $(SRC)
@@ -28,7 +28,7 @@ protocols/Full_Protocols.pdf: $(SRC)
 		echo '<div style="page-break-after: always;"></div>' >> protocols/Full_Protocols.md ; \
 		echo >> protocols/Full_Protocols.md ; \
 	done
-	md-to-pdf --config-file build/md_to_pdf.json protocols/Full_Protocols.md $@
+	md-to-pdf --config-file md_to_pdf.json protocols/Full_Protocols.md $@
 	rm -f protocols/Full_Protocols.md
 
 protocols.zip: $(MERGED_PDFS)
