@@ -135,7 +135,7 @@ These peptide mixtures may be directly injected into a mass spectrometer, howeve
 
 <div style="page-break-after: always;"></div>
 
-## Proteolytic Digest and Cleanup
+## Chemical Modification and Digestion
 
 ### Equipment & Reagents
 
@@ -155,7 +155,7 @@ These peptide mixtures may be directly injected into a mass spectrometer, howeve
 * Acetic Acid (99.99%)
     * Located in Acids cabinet underneath fume hood
 
-### Chemical Modification and Digestion
+### Steps
 
 1. Begin with 1 mg protein in 4 mL volume, adjust volumes accordingly if you
    are starting with more or less lysate.
@@ -175,10 +175,39 @@ These peptide mixtures may be directly injected into a mass spectrometer, howeve
 11. Stop the reaction by adding 1 mL Acetic Acid.
 12. Store samples in -80 °C or proceed directly to cleanup.
 
-### Sep-Pak Cleanup
+<div style="page-break-after: always;"></div>
+
+## Sep-Pak Cleanup
+
+### Equipment
+
+* Harvard Apparatus (Syringe Pump)
+    * Located on shelf next to chemical reagents.
+
+### Reagents
+
+* Sep-Pak Cartridge
+    * Located on shelf next to chemical reagents.
+    * Sep-Pak C18 Plus Short (Waters, WAT020515)
+        * Maximum peptide capacity: 4 mg
+    * Sep-Pak C18 Plus Light (Waters, WAT023501)
+        * Maximum peptide capacity: 1 mg
+
+* BD Syringe
+    * Located on shelf next to chemical reagents.
+
+* 99.99% Glacial Acetic Acid
+
+* 0.1% Acetic Acid
+
+* 90% Acetonitrile, 0.1% Acetic Acid
+
+* 40% Acetonitrile, 0.1% Acetic Acid
+
+### Steps
 
 1. Centrifuge samples for 5 minutes at 3000 rpm to pellet particulate.
-2. Attach a 10 or 20 mL syringe to a Sep-Pak Light (Up to 1 mg) or Sep-Pak Plus (Up to 4 mg) C18 Cartridge.
+2. Attach a syringe to a Sep-Pak C18 Cartridge.
 2. Label the syringes and corresponding 10 mL tubes for elution.
 3. Attach syringes to Hamilton device and condition the C18 columns.
     1. Flow 10 mL of 0.1% Acetic Acid at 2 mL / min.
@@ -192,7 +221,37 @@ These peptide mixtures may be directly injected into a mass spectrometer, howeve
 
 <div style="page-break-after: always;"></div>
 
-### Lyophilization
+## Speed-Vac
+
+### Equipment
+
+* Speed-vac
+    * Located in room with -80°C storage
+
+### Steps
+
+1. Prepare tubes such that you have an even number that will be balanced on the
+   instrument.
+2. Place tubes with open caps in speed-vac.
+3. Hit "Manual Run".
+4. Ensure the pressure drops to ~300 - 400 millitorr within 10 minutes.
+5. Ensure the temperature on the trap drops to ~ -100°C within 10 minutes.
+6. Let the instrument run for 4-5 hours until the the volume is about 3 - 4 mL.
+7. If the sample will be labeled, split samples into ~ 400 μg aliquots. Otherwise run until sample is less than 3 mL.
+8. Speed-vac each aliquot down to below 1 mL
+9. Store the samples at -80°C for at least 2 hours.
+
+## Lyophilization
+
+### Equipment
+
+* Lyophilizer
+    * Located in mass spec lab.
+
+* Liquid Nitrogen
+    * Available from tank across from writing lab. Make sure to wear gloves!
+
+### Steps
 
 1. Immerse the tubes in liquid nitrogen for several minutes to snap freeze samples.
 2. Loosen the caps on the tubes such that they are not on tight but cannot be pulled directly off.
