@@ -24,7 +24,7 @@ MD_TO_PDF_JSON = md_to_pdf.json
 %.pdf: %.md
 	md-to-pdf --config-file md_to_pdf.json $< $@
 
-protocols/Mass_Spec_Protocols.pdf: $(MS_FILES)
+protocols/Proteomics_Protocols.pdf: $(MS_FILES)
 	rm -f $(MS_MD_PATH)
 	for file in $(MS_FILES) ; do \
 		cat $$file >> $(MS_MD_PATH) ; \
