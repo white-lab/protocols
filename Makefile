@@ -94,13 +94,7 @@ protocols/Legacy_Protocols.pdf: $(LEGACY_FILES)
 	md-to-pdf --config-file $(MD_TO_PDF_JSON) $(LEGACY_MD_PATH) $@
 	rm -f $(LEGACY_MD_PATH)
 
-protocols.zip: $(MERGED_PDFS)
-	zip -r protocols.zip $(MERGED_PDFS)
-
-protocols.tar.gz: $(MERGED_PDFS)
-	tar -cf protocols.tar.gz $(MERGED_PDFS)
-
-all: $(PDFS) protocols.zip protocols.tar.gz
+all: $(PDFS)
 
 clean:
 	rm -f **/*.pdf
