@@ -16,7 +16,7 @@
     2. For each transfection:
         1. Add 200 μL of OPTImem to eppendorf tube / reaction.
         2. Add 1.5 μg pEF1a-hyPBase (piggybac transposase).
-        3. Add 2 μg of PB-<Gene of Interest>.
+        3. Add 2 μg of PB-\<Gene of Interest\>.
         4. Add 10.5 μL Mirus LT1 transfection reagent.
     3. Wait 20 minutes at room temperature.
     4. Add transfect mixture to cells (Don't change media!).
