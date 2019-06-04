@@ -15,9 +15,9 @@
 
 * 100 mM EDTA pH 8.0
 
-* 100 mM Iron Chloride (FeCl<sub>2</sub>)
+* 100 mM Iron Chloride (FeCl<sub>3</sub>)
     * Located in fume hood in wet lab within desicator.
-    * [1 gram ampule](https://www.sigmaaldrich.com/catalog/product/aldrich/451649) into 62 mL Ultrapure Water
+    * 1 gram FeCl<sub>3</sub> ampule (Sigma: 451649) into 62 mL Ultrapure Water
 
 * 80% Acetonitrile (MeCN), 0.1% Trifluoacetic Acid (TFA)
 
