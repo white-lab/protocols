@@ -4,7 +4,7 @@ SRC  = $(wildcard **/*.md)
 LEGACY = $(wildcard legacy/*.md)
 PDFS = $(SRC:.md=.pdf)
 
-MS_MD_PATH = protocols/Mass_Spec_Protocols.md
+MS_MD_PATH = protocols/Proteomics_Protocols.md
 WET_MD_PATH = protocols/Wet_Lab_Protocols.md
 CELL_MD_PATH = protocols/Cell_Culture_Protocols.md
 FULL_MD_PATH = protocols/Full_Protocols.md
