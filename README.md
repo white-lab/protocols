@@ -19,10 +19,11 @@ We supply automatically-compiled PDFs of tagged commits on our
 
 ## Lab Parts and Reagents
 
-  We keep a catalog of our commonly ordered lab supplies in this repository's [parts](parts) folder:
+  We keep a catalog of our commonly ordered lab supplies in this repository's
+  [parts](parts) folder:
 
-    * [HPLC Parts](parts/HPLC.md)
-    * [Wet Lab](parts/Wet_Lab.md)
+  * [HPLC Parts](parts/HPLC.md)
+  * [Wet Lab](parts/Wet_Lab.md)
 
 ## Development
 
