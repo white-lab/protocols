@@ -38,6 +38,8 @@ sudo yum install npm
 # On Debian / Ubuntu
 sudo apt-get install npm
 
+# Other environments: https://nodejs.org/en/download/
+
 npm install -g md-to-pdf
 make
 ```
