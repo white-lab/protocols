@@ -11,7 +11,11 @@ the [protocols](protocols) folder.
 ## PDF Documents
 
 We supply automatically-compiled PDFs of tagged commits on our
-[releases](https://github.com/white-lab/protocols/releases) page.
+[releases](https://github.com/white-lab/protocols/releases/latest) page:
+
+  * Proteomics_Workflow.pdf
+  * Full_Protocols.pdf
+  * Legacy_Protocols.pdf
 
 All documents contained here are written using
 [Markdown](https://daringfireball.net/projects/markdown/). To convert them to

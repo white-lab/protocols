@@ -16,11 +16,11 @@ script:
 deploy:
   provider: releases
   file:
-    - "protocols.zip"
-    - "protocols.tar.gz"
+    - "mass_spec/Proteomics_Workflow.pdf"
     - "protocols/Full_Protocols.pdf"
     - "protocols/Legacy_Protocols.pdf"
-    - "mass_spec/Proteomics_Workflow.pdf"
+    - "protocols.zip"
+    - "protocols.tar.gz"
   skip_cleanup: true
   api_key:
     secure: ZyNQHNj7silxJ2IFexcZe309TPf9yTAV4mNocyb/UrlVWO2sCkiQ/OoSKJkfwQUSJ0tAh2mgO2hfl24RWkr+nTgVlA3KGE+5qePKquMdvBx/RM4x/dkUqFbj6atbB/lmOpP28+Z1SdNExyGb8DaqPJuU3n+F0DhhdVPVwf53m0zth+62EFmp/u6qPjVqHnLxfUY6a15B/voMFPObnvhfoccidlx7BXJlvnDbH86IytszevrPcC06HJo6HsscILQac7QC+WYrI9RJsZXOefMEfXWLlQqs3ZpbJVLHnTl0Fa9sr9rRp7vGenZHHZrLo9sV7FL98M7uH9qg4Lb5VApeR1h8l/cvc9cDbh3PZF+1xB1BZMi67JA/9h0dljrKtF4oXjFGG+1DbRY/awb8qh0buk2gvgcuRclj9z33OhEqHecSA+vCIHuRtx9K5WKGSCG+AA4id/dYHIa9agLVqfGbXgY98weSbUv41y/E3s61VGTEWOQFFYPPI5yB7wk05tzlihYAyypgFRRJQHK/d6yl5rOiXNu0q7l66EmhCYRB0/2RhNE15LOmM/CvQCXwDxRdvarQlYKSFurVMW4idKbFzUNyacJrdcsd5YMgkRUk1SqWME0RtradpZLFMX0QiE/pfXASM2WHfxF5eVt7TxouVAikY8vFp0JwXUg/Iyvzwj8=
