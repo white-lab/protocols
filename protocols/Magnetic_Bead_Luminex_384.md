@@ -1,11 +1,8 @@
 # Magnetic Bead Luminex Protocol for 384-well Plate
 
-## Equipment
+## Equipment & Reagents
 
 * Luminex Machine
-
-## Reagents
-
 * White Optiplate 384-well plates
     * Stored on shelf under plate vacuum.
 

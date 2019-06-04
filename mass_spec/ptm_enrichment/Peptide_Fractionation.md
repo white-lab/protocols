@@ -4,14 +4,10 @@
 
 * C18 column, 4.6mm ID, 150mm column (column volume = 1.5mL)
     * Located on chemical shelf in wet lab or attached to HPLC in mass spec lab.
-
-* Buffer A
-    * 10 mM TEAB pH 8
-        * 10 mL 1 M TEAB, 990 mL HPLC-grade Water
-
-* Buffer B
-    * 10 mM TEAB pH 8, 99% Acetonitrile
-        * 10 mL 1 M TEAB, 990 mL HPLC-grade Acetonitrile
+* Buffer A : 10 mM TEAB pH 8
+    * 10 mL 1 M TEAB, 990 mL HPLC-grade Water
+* Buffer B : 10 mM TEAB pH 8, 99% Acetonitrile
+    * 10 mL 1 M TEAB, 990 mL HPLC-grade Acetonitrile
 
 ## Steps
 

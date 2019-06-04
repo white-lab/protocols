@@ -6,15 +6,11 @@ technology" by CS Hughes et al. Mol. Sys. Bio.
 
 Please cite the original work.
 
-## Equipment
+## Equipment & Reagents
 
 * Magnetic Rack
-
-## Reagents
-
 * Sera-Mag Speed Beads A
     * Thermo Scientific; CAT No. 09-981-121, Magnetic Carboxylate Modified
-
 * Sera-Mag Speed Beads B
     * Thermo Scientific; CAT No. 09-981-123, Magnetic Carboxylate Modified
 

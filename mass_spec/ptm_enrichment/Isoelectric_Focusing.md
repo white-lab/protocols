@@ -21,30 +21,24 @@ When loading the fractionator, you will want three primary buffers: two for the
 cathode and anode, and one for the sample. The sample should be loaded at 670
 μL per chamber,
 
-## Equipment
+## Equipment & Reagents
 
 * Invitrogen Zoom Isoelectric Focusing Fractionator
     * Located in wet lab on Jose's old bench.
-
-## Reagents
-
 * Anode Buffer
     * 8.4 grams Zoom Urea
     * 3.0 grams Zoom Thiouera
     * 3.3 mL Novex IEF Anode buffer (50X)
     * Adjust the volume to 20 mL with MilliQ Water.
     * Check pH is 3.0
-
 * Cathode Buffer
     * 8.4 grams Zoom Urea
     * 3.0 grams Zoom Thiourea
     * 2.0 mL Novex IEF Cathode buffer pH 3 - 10 (10X)
     * Adjust the volume to 20 mL with MilliQ Water.
     * Check pH is 10.4
-
 * 2 M DTT
     * Dissolve 0.03 grams DTT in 100 μL MilliQ Water.
-
 * IP Supernatant
     * 670 μL per chamber
     * Add 2 M DTT at 1:100 of total volume

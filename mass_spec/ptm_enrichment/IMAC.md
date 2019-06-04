@@ -1,25 +1,16 @@
 # Immobilized Metal Affinity Chromatography (IMAC)
 
-## Equipment
+## Equipment & Reagents
 
 * Pressure Bomb
-
 * HPLC
-
-## Reagents
-
 * EDTA
-
 * Ultra-pure / Nano-pure / Mass-Spec Grade Water
-
 * Fe(III) Chloride
     * Sigma-Aldrich 451649
     * Located in fume hood in wet lab within desiccator.
-
 * 0.1% Acetic Acid
-
 * Organic Rinse
-
 * Elution Buffer
 
 ## Steps

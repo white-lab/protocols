@@ -1,21 +1,15 @@
 # RT-qPCR
 
-## Equipment
+## Equipment & Reagents
 
 * C1000 Thermal Cycler + CFX384 Real-Time System
     * Located in 76-391 (Koehler Lab)
     * Make sure to reserve a time slot before using.
-
-## Reagents
-
 * 384 qPCR Plate
-
 * Plate Seal
-
 * Sybr Green Master Mix
-    * Located in -20°C, bottom shelf.
+    * Located in -20°C, middle shelf.
     * Keep stock on ice.
-
 * Forward and Reverse Primers
     * Primers for genes may be found on [Harvard's PrimerBank](https://pga.mgh.harvard.edu/primerbank/)
       or generated using [Primer-BLAST](https://www.ncbi.nlm.nih.gov/tools/primer-blast/).
@@ -23,13 +17,10 @@
       checking for a single product band at the correct size.
     * Use F and R primers for at least two loading controls (Such as β-Actin and
       GAPDH) as well as F and R for each gene.
-
 * cDNA
     * Prepared using [cDNA Protocol](cdna_prep.md).
     * Incubate at room temperature to thaw, spin down in microcentrifuge.
-
 * RNAase-free, Endotoxin-free Water ("Water" below)
-
 * 70% Ethanol
 
 ## Steps

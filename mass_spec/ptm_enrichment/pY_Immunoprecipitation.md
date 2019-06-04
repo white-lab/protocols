@@ -4,33 +4,23 @@ All steps for the pY immunoprecipitation should be performed in the cold room
 until the final elution step. Rinses on the second day should be performed at
 the same time as the initial IMAC EDTA / water / iron washes.
 
-## Equipment
+## Equipment & Reagents
 
 * Centrifuge
-
 * Rotator
-
-## Reagents
-
 * Protein G Agarose Beads (Calbiochem IP08)
-
 * pY Antibodies
     * 4G10 (Millipore) - 1 μg / μL
     * PT66 (Sigma) - 2 μg / μL
     * PY100 (CST) (Optional) - 1 μg / μL
-
 * IP Buffer
     * 100 mM Tris-HCl, 0.3% NP-40, pH 7.4
-
 * iTRAQ IP Buffer
     * 100 mM Tris-HCl, 1% NP-40, pH 7.4
-
 * Rinse Buffer
     * 100 mM Tri-HCl, pH 7.4
-
 * Elution Buffer
     * 100 mM Glycine, pH 2-2.5
-
 * Basic pH-ing Buffer
     * 500 mM Tris buffer pH 8.5
 

@@ -2,32 +2,24 @@
 
 Taken from MFT, 11/21/03.
 
-## Equipment
+## Equipment & Reagents
 
 * 37°C shaking incubator
     * Located down the hallway between the Yaffe and Hynes labs.
-
 * 37°C plate incubator
     * Located down the hallway by Yaffe Lab.
-
 * Heat Block / Water Bath
     * Pre-heat to 42°C.
-
-## Reagents
-
 * LB Broth
     * 20 g / L of LB, autoclaved, no antibiotics.
-
 * Competent E. coli cells
     * Use DH5α in most cases.
         * Located in -80°C.
     * If you want to cut at XbaI or other DAM- enzyme sites, use SCS110 cell
       which are deficient in Dam and Dcm methylases.
-
 * LB plates
     * Add the correct antibiotic, usually Ampicillin or Kanamycin depending on
       the plasmid.
-
 * Falcon Round-Bottom Polystyrene Tubes
     * Located in stock room or under Vibhuti's bench.
 

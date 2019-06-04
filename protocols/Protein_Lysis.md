@@ -7,7 +7,7 @@
 * From lysate, need 3 wells of 10 μl of 1:10 and 1:100 dilution for BCA
     * 3 wells 25 μl of1:5 dilution for Luminex
 
-## Reagents
+## Equipment & Reagents
 
 * 10mL lysis buffer
  * 1 tablet protease inhibitor (cOmplete mini with 25 tablets/bottle; Roche)
@@ -17,16 +17,12 @@
         * 10 mL NP4O lysis buffer (pH 7.5)
         * Contains 20mM Tris HCl, 2mM EDTA, 150mM NaCl, 1% NP40, 10% glycerol
             * Weigh out Tris HCl/NaCl ; dilute EDTA
-
 * PBS (non-sterile)
-
 * Costar 96 well V bottom plates (2; by TC stuff)
-
 * 2.0 ml 96 deep well plates (2; on top of 2nd bench)
     * Or can just use 2 more V bottom plates, ie. if don’t need to store that much supernatant
         * Need ~100 μl supernatant for Luminex
         * Also need some for BCA
-
 * Cell scraper (small for 6 well plates and smaller, large for dishes; by TC stuff)
 
 ## Steps

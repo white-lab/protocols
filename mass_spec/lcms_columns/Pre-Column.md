@@ -1,36 +1,22 @@
 # Making a pre-column
 
-## Equipment
+## Equipment & Reagents
 
 * Pressure Bomb
-
 * Stir Plate
-
 * Heat Gun (Optional) / Oven (Optional)
-
 * HPLC
     * Used for final conditioning step.
-
-## Reagents
-
 * Capillary Tube
     * OD: 360 μm, ID: 100 μm (Polymicro Technologies cat. no. TSP100375)
-
 * Kasil
-
 * Formamide
-
 * 100% Acetonitrile
-
 * 80% Acetonitrile, 20% Isopropanol
-
 * 10 μm beads
     * YMC gel, ODS-A, 12nm, S-10 μm, AA12S11
-
 * 0.1% Acetic Acid
-
 * Stir Bar
-
 * 10 fmol BSA
 
 ## Steps

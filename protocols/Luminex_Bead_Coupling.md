@@ -1,6 +1,6 @@
 # Luminex Bead Coupling Protocol
 
-## Reagents
+## Equipment & Reagents
 
 Reagent locations written with respect to the Lauffenburger lab.
 

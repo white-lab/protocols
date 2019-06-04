@@ -1,27 +1,21 @@
 # Western Blot
 
-## Reagents
+## Equipment & Reagents
 
 * SDS-PAGE Gel
-
 * Loading Buffer
     * Use 2X Laemmli sample buffer or 4X Loading Buffer.
-
 * 1 M Stock Dithiothreitol (DTT)
-
 * Running Buffer
     * NuPAGE MOPS Buffer
-
 * Transfer Buffer
     * 20% Methanol
     * 1 L Tris-Gly (2X)
     * Fill to 2 L with MilliQ Water
     * Store at 4°C.
-
 * Blocking Buffer
     * 50% Odyssey
     * 50% PBS
-
 * Washing Buffer
     * 100 mL 10X TPBS
     * 900 mL MilliQ Water

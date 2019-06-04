@@ -1,15 +1,10 @@
 # RIPA Cell Lysis for Immunoblotting / Protein IP
 
-## Equipment
+## Equipment & Reagents
 
 * Ice Bucket / Ice Tray
-
 * Pipetman
-
 * Aspirator
-
-## Reagents
-
 * RIPA Lysis Buffer
     * 150 mM NaCl
     * 50 mM Tris, pH7.4
@@ -23,15 +18,11 @@
         * 25 mL 10% Triton X100
         * 5 mL 500 mM EDTA
         * Bring up to 250 mL with MilliQ Water, store at 4°C
-
 * Halt: Protease and phosphatase inhibitor cocktail
     * Pierce cat. no. 78426
-
 * 1X PBS, non-sterile
     * Keep on ice
-
 * Cell Scrapers
-
 * Labeled 15-mL tubes
 
 ## Steps

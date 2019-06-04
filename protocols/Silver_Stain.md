@@ -2,28 +2,21 @@
 
 Silver stains allow you to visual total protein content in a gel.
 
-## Equipment
+## Equipment & Reagents
 
 * Aspirator
     * Use separate trap for silver stain solution.
-
-## Reagents
-
 * Piece Silver Stain for MS (cat. no. 24600)
-
 * Fixing Solution
     * 60% MilliQ Water
     * 30% Ethanol
     * 10% Acetic Acid
-
 * Stop Solution
     * 95% MilliQ Water
     * 5% Acetic Acid
-
 * Ethanol Wash
     * 90% MilliQ Water
     * 10% Ethanol
-
 * Ultrapure Water
 
 ## Steps

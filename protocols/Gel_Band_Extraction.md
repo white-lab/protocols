@@ -5,37 +5,26 @@ can be  adapted for other enzymes by changing the digestion buffer / pH
 according to the enzyme.
 
 
-## Equipment
+## Equipment & Reagents
 
 * Speed-Vac
-
 * Vortexer
     * Destaining, rinsing, washing, and dehydration steps should take place
       with the tube shaking on a vortexer at a speed of 2-3.
-
-## Reagents
-
 * Basic Buffer
     * Either 100 mM Ammonium Acetate (pH 8.9) or
       100 mM Ammonium Bicarbonate (pH ~ 8)
-
 * 40% Ethanol (EtOH), 10% Acetic Acid (AA)
     * Used to destain Coommassie
-
 * 20 mM DTT
     * 0.031 g DTT into 1 mL buffer, then dilute 1:10 to get 20 mM DTT
-
 * 60 mM Iodoacetamide (IAA)
     * 0.111 g IAA into 1 mL buffer, then dilute 1:10 to get 60 mM IAA
-
 * 100% Acetonitrile (MeCN)
-
 * Trypsin
     * 12.5 ng / μL
     * Add 1550 μL Basic Buffer to 50 μL (Promega) Trypsin to get 12.5 ng / μL
-
 * 50% Acetonitrile (MeCN), 5% Formic Acid (FA)
-
 * 0.1% Acetic Acid (AA)
 
 ## Steps

@@ -1,46 +1,31 @@
 # Making a Fritted Analytical Column
 
-## Equipment
+## Equipment & Reagents
 
 * Laser Puller
     * Sutter Instrument Co. Model P-2000
-
 * Pressure Bomb
-
 * Stir Plate
-
 * Oven (Optional)
-
-## Reagents
-
 * Capillary Tube
     * OD: 360 μm, ID: 50 μm (Polymicro Technologies)
-
 * Lithisil
     * PQ Corporation
-
 * Tetramethylammonium (TFA) Silicate
     * Sigma-Aldrich
-
 * Formamide
     * Sigma-Aldrich
-
 * Ultrapure (MS-grade) Water
     * Make fresh every time to avoid leftover particulate that may clog your
       column.
-
 * 80% Methanol, 20% Chloroform
     * Located in flammables cabinet below fume hood in wet lab.
     * Chloroform prevents beads from aggregating, columns pack much more
       quickly.
-
 * 3 or 5 μm Beads
     * 5 μm beads are preferable.
-
 * Stir Bar
-
 * 0.1% Formic Acid
-
 * 10 fmol BSA
 
 ## Steps

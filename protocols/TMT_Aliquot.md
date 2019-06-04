@@ -1,11 +1,8 @@
 # New TMT Aliquot Protocol
 
-## Instruments
+## Equipment & Reagents
 
 * Speed-Vac
-
-## Reagents
-
 * Anhydrous Acetonitrile (use the newest/freshest one)
     * Located in flammables cabinet under wet lab fume hood.
 

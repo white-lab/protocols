@@ -1,19 +1,14 @@
 # cDNA Preparation
 
-## Reagents
+## Equipment & Reagents
 
 * DEPC Water
-
 * DNAse buffer (10X)
-
 * DNAse
     * Invitrogen 18068-015
-
 * 25 mM EDTA
     * Inviotrogen P/N Y02353
-
 * iScript Master Mix
-
 * Reverse Transcriptase (RT) Enzyme
 
 ## Steps

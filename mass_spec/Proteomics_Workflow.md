@@ -16,18 +16,14 @@ These peptide mixtures may be directly injected into a mass spectrometer, howeve
 
 ### Equipment & Reagents
 
-* Ice tray.
-
+* Ice tray
 * Fresh 8 M Urea
     * Weigh out urea first, then add water to fill tube up to desired volume,
       vortex and let sit in water bath to help dissolve the urea crystals.
     * Cool down urea on ice before adding it to cells.
-
 * 1 mM Sodium Orthovanadate (Optional)
     * Tyrosine Kinase Inhibitor
-
 * Protease / Phosphatase Inhibitor Cocktail (Optional)
-
 * Homogenizer (Optional)
     * VWR® 200 Homogenizer
     * MilliQ Water
@@ -60,7 +56,7 @@ These peptide mixtures may be directly injected into a mass spectrometer, howeve
           to remove.
 2. Add 3 mL lysis buffer to 15 mL tube on ice.
 3. Grab a timer.
-4. Get sample from -80 °C freezer, keep on dry ice.
+4. Get sample from -80°C freezer, keep on dry ice.
 5. Take tissue out of tube using tweezers and deposit on a weighing tray that
    has been tared.
 6. Record weight, size, and shape of tissue sample.
@@ -80,14 +76,11 @@ These peptide mixtures may be directly injected into a mass spectrometer, howeve
 ### Equipment & Reagents
 
 * Plate reader
-
 * Pierce™ BCA Protein Assay Kit
     * BCA Reagent A
     * BCA Reagent B
     * Bovine Serum Albumin (BSA) Standard Ampules, 2mg/mL
-
 * Falcon 96-well, clear, flat bottom plate with lid
-
 * 1X Phosphate-buffered saline (PBS)
 
 ### Steps
@@ -114,7 +107,7 @@ These peptide mixtures may be directly injected into a mass spectrometer, howeve
        dilution was assigned to each row.
 6. Using a multi-channel pipettor, add 200 μL A:B reagent to each well.
 7. Wrap plate parafilm to reduce evaporation.
-8. Incubate at 37 °C for 30 min (use oven in mass spec lab).
+8. Incubate at 37°C for 30 min (use oven in mass spec lab).
 9. Check wells for presence of bubbles, 1 mg / mL standards be purple in color.
 10. Measure the absorbance at 562 nm on a plate reader.
     1. Before reads, add a shaking parameter of 1 mm amplitude for 10 seconds.
@@ -127,11 +120,10 @@ These peptide mixtures may be directly injected into a mass spectrometer, howeve
 3. Fit a linear regression model to this distribution. Extract the slope (m) and y-intercept (b) for the fitted line.
 4. Calculate the protein concentrations for each sample:
    * concentration = (absorbance - b) / m * dilution factor
-   * If the calculated concentrations for any sample vary by more than 50% or are outside the standard concentration range, redo the assay for those samples.
    * If the correlation (R^2) is less than X or the scatter plot appears to be
       non-linear, redo the assay.
-6. Multiple the concentration by the total sample volume to find the total
-   protein content.
+   * If the calculated concentrations for any sample vary by more than 50% or are outside the standard concentration range, redo the assay for those samples.
+6. Multiply the concentration by the total sample volume to find the total protein content.
 
 <div style="page-break-after: always;"></div>
 
@@ -142,16 +134,12 @@ These peptide mixtures may be directly injected into a mass spectrometer, howeve
 * Fresh 1 M DTT (Sigma D0632) in Ammonium Acetate solution
     * Located in wet lab fridge
     * 0.00615 g in 40 μL for each 4 mL of lysate
-
 * Fresh 800 mM Iodoacetamide (Sigma I1144) in Ammonium Acetate solution
     * Located in wet lab fridge within desiccant container
     * 0.044 g in 300 μL for each 4 mL of lysate
-
 * 100 mM Ammonium Acetate pH 8.9
-
 * Trypsin (Promega V5113)
-    * Located in -80 °C, each tube is 20 μg / 50 μL
-
+    * Located in -80°C, each tube is 20 μg / 50 μL
 * Acetic Acid (99.99%)
     * Located in Acids cabinet underneath fume hood
 
@@ -162,7 +150,7 @@ These peptide mixtures may be directly injected into a mass spectrometer, howeve
 2. Add 40 μL DTT solution to lysate.
     * Final concentration should be 10 mM DTT.
 3. Vortex lysate.
-4. Incubate in 56 °C water bath for 1 hour.
+4. Incubate in 56°C water bath for 1 hour.
 5. Add 300 μL IAA solution to lysate.
     * Final concentration should be 55 mM IAA,
 6. Wrap tube to block UV light from degrading IAA.
@@ -173,35 +161,27 @@ These peptide mixtures may be directly injected into a mass spectrometer, howeve
       lysate)
 10. Incubate on rotator overnight (18 - 24 hours).
 11. Stop the reaction by adding 1 mL Acetic Acid.
-12. Store samples in -80 °C or proceed directly to cleanup.
+12. Store samples in -80°C or proceed directly to cleanup.
 
 <div style="page-break-after: always;"></div>
 
 ## Sep-Pak Cleanup
 
-### Equipment
+### Equipment & Reagents
 
 * Harvard Apparatus (Syringe Pump)
     * Located on shelf next to chemical reagents.
-
-### Reagents
-
 * Sep-Pak Cartridge
     * Located on shelf next to chemical reagents.
     * Sep-Pak C18 Plus Short (Waters, WAT020515)
         * Maximum peptide capacity: 4 mg
     * Sep-Pak C18 Plus Light (Waters, WAT023501)
         * Maximum peptide capacity: 1 mg
-
 * BD Syringe
     * Located on shelf next to chemical reagents.
-
 * 99.99% Glacial Acetic Acid
-
 * 0.1% Acetic Acid
-
 * 90% Acetonitrile, 0.1% Acetic Acid
-
 * 40% Acetonitrile, 0.1% Acetic Acid
 
 ### Steps
@@ -223,7 +203,7 @@ These peptide mixtures may be directly injected into a mass spectrometer, howeve
 
 ## Speed-Vac
 
-### Equipment
+### Equipment & Reagents
 
 * Speed-vac
     * Located in room with -80°C storage
@@ -243,11 +223,10 @@ These peptide mixtures may be directly injected into a mass spectrometer, howeve
 
 ## Lyophilization
 
-### Equipment
+### Equipment & Reagents
 
 * Lyophilizer
     * Located in mass spec lab.
-
 * Liquid Nitrogen
     * Available from tank across from writing lab. Make sure to wear gloves!
 
@@ -273,14 +252,10 @@ To label peptides with TMT mass tags, begin with ~150 μg peptides per sample. W
 
 * TMT
     * Located in -80°C storage in bottom half of Thermo freezer.
-
 * 50 mM HEPES (pH 8.5) in HPLC grade water
-
 * 5% Hydroxylammine
     * Located on Jacqueline's shelve in wet lab as 50%, dilute 10x in HPLC water
-
 * 25% Acetonitrile, 0.1% Acetic Acid
-
 * Anhydrous MeCN (freshest one)
     * Located in flammables cabinet under wet lab hood.
 

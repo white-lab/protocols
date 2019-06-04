@@ -2,18 +2,15 @@
 
 This protocol is written for IF staining of tissue slices.
 
-## Reagents
+## Equipment & Reagents
 
 * Permeabilization Solution
     * PBS
     * 10% Normal Donkey Serum (NDS)
     * 0.3% Triton-X
-
 * Washing Solution
     * PBS
-
 * Primary Antibodies
-
 * Secondary Antibodies
 
 ## Steps
