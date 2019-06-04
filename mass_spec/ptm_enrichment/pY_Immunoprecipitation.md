@@ -68,8 +68,6 @@ until the final elution step.
     * IMAC: Use 70 μL 100 mM Glycine pH 2-2.5, 30 minutes
     * High-Select Fe-NTA Enrichment: 25 μL 0.2% TFA, 10 minutes
 
-<div style="page-break-after: always;"></div>
-
 ## High-Select Fe-NTA Enrichment
 
 1. While the peptides are eluting, prepare the FeNTA columns
