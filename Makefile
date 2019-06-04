@@ -57,7 +57,6 @@ protocols/Cell_Culture_Protocols.pdf: $(CELL_FILES)
 protocols/Full_Protocols.pdf: $(FULL_FILES)
 	rm -f $(FULL_MD_PATH)
 	for file in $(FULL_FILES) ; do \
-		echo $$file ; \
 		cat $$file >> $(FULL_MD_PATH) ; \
 		echo '<div style="page-break-after: always;"></div>' >> $(FULL_MD_PATH) ; \
 		echo >> $(FULL_MD_PATH) ; \
@@ -68,7 +67,6 @@ protocols/Full_Protocols.pdf: $(FULL_FILES)
 protocols/Legacy_Protocols.pdf: $(LEGACY_FILES)
 	rm -f $(LEGACY_MD_PATH)
 	for file in $(LEGACY_FILES) ; do \
-		echo $$file ; \
 		cat $$file >> $(LEGACY_MD_PATH) ; \
 		echo '<div style="page-break-after: always;"></div>' >> $(LEGACY_MD_PATH) ; \
 		echo >> $(LEGACY_MD_PATH) ; \
