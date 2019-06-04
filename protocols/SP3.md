@@ -58,7 +58,7 @@ mixture.
    necessary to completely homogenize the beads, as they will be stuck
    to each other and excessive handling will generate bubbles. The
    cluster will break down as proteins are digested.
-10. Incubate for 14 hours at 37 °C.
+10. Incubate for 14 hours at 37°C.
 
 Digested peptides can be recovered from the beads by placing the tube on a
 magnetic rack and removing the supernatant containing them. The peptide

@@ -1,39 +1,30 @@
 # 96-well Phagocytosis Assay
 
-## Equipment
+## Equipment & Reagents
 
 * Centrifuge with cell plate adapter
-
 * Multichannel P20 and P200 pipettors and aspirator
-
 * Flow Cytometer
     * Should include 96-well adapter
     * Needs filters for FITC/Alexa-488, APC, APC-Cy7
     * Works well: Canto II, LSR Fortessa HTS (remember to get trained!)
-
-## Reagents
-
 * Cell media
     * 30 mL / plate
     * 800k cells / plate (64k / row)
-
 * Wash Buffer
     * Ice Cold: PBS with calcium and magnesium.
     * 30 mL / plate
-
 * Flow Cytometry Buffer (FCB)
     * Ice Cold: 10% FBS, 1 mM EDTA, PBS without calcium or magnesium.
     * 60 mL / plate
-
 * Fluorescent Particles
     * Aβ-Alexa Fluor-488 (AnaSpec: AS-60479-01)
-        * Dissolve in 100 μL PBS for 1 mg / mL, store aliquots at -20 °C
+        * Dissolve in 100 μL PBS for 1 mg / mL, store aliquots at -20°C
     * Dextran, Alexa Fluor® 488 (Thermo: D22910)
-        * Dissolve in 5 mL PBS for 1 mg / mL, store aliquots at -20 °C
+        * Dissolve in 5 mL PBS for 1 mg / mL, store aliquots at -20°C
     * FluoSpheres® (Blue-Green) (Thermo: F13080)
         * Delivered as 2e10 beads / mL
     * 10 μL of small fluorophore / plate, 100 μL of bead solution / plate
-
 * Primary fluorescent antibody
     * α-mSiglec-F-APC-Cy7 (Clone E50-2440; BD Biosciences \#565527)
     * α-hCD33-APC (Clone WM53; BD Biosciences \#551378)
@@ -56,13 +47,13 @@
     * Incubate cells with endocytosis fluorophores for 3 hours.
     * Incubate cells with phagocytosis beads for 24 hours.
 5. Aspirate media, wash with 250 μL PBS + ions.
-6. Spin down plate at 300g for 3 minutes at 4 °C.
+6. Spin down plate at 300g for 3 minutes at 4°C.
 7. Aspirate wells, resuspend in 100 μL FCB.
 8. Add antibody.
     * 1 μL / well of antibody (1:10 in FCB)
-9. Incubate in dark for 30 min at 4 °C.
+9. Incubate in dark for 30 min at 4°C.
 10. Add 150 μL FCB.
-10. Spin down plate at 300g for 3 minutes at 4 °C.
+10. Spin down plate at 300g for 3 minutes at 4°C.
 11. Aspirate wells, resuspend in 200 μL FCB (no need to do extra mixing).
 12. Check cells under microscope to ensure no clumps.
     * If cells are clumping, filter into new 96-well plate.

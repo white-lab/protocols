@@ -1,38 +1,28 @@
 # PLA Probe Conjugation - Secondary Antibody
 
-## Reagents
+## Equipment & Reagents
 
 * Primary Antibodies (Mouse and Rabbit IgG)
-
 * AffiniPure Donkey Anti-Mouse IgG
     * 715-005-150, 1 mg, Jackson Immuno
-
 * AffiniPure Donkey Anti-Rabbit IgG
     * 711-005-152, 1 mg, Jackson Immuno
-
 * Amicon Ultra-0.5, 100 kDa
     * UFC510024, 24 pieces, Millipore
-
 * S-HyNic Crosslinker
     * DMF Soluble
     * S-1002-105, 5 x 1 mg, Solulink
-
 * Aniline
     * 242284, 5 mL, Sigma
-
 * UltraPure DNase/RNase-Free Distilled Water
     * 10977-015, 500 mL, Life Tech.
-
 * Secondary oligo probes (Life Tech.)
     * PLUS: 5′-aldehyde-AAA AAA AAA ATA TGA CAG AAC TAG ACA CTC TT-3ʼ
     * MINUS: 5′-aldehyde-AAA AAA AAA AGA CGC TAA TAG TTA AGA CGC TT-3ʼ
-
 * Zeba Spin Desalting Columns, 7K MWCO, 0.5 mL
     * 89882, 25 columns, Thermo
-
 * Wash Buffer
     * 10 mM PBS, pH 7.4
-
 * Conjugation Buffer
     * 1.21 g Sodium phosphate monobasic monohydrate (NaH2PO4 · H2O)
     * 0.32 g Disodium hydrogen phosphate heptahydrate (Na2HPO4 · 7H2O)
@@ -51,9 +41,9 @@
     2. Pre-rinse filter twice with Wash Buffer and leave last rinse in filter
        until ready for antibody... DO NOT LET FILTER DRY OUT.
     3. Add sample and place filter in a collection tube and spin 6 minutes at
-       14,000 rpm (4 °C).
+       14,000 rpm (4°C).
     4. Invert filter in new collection tube and spin 2 minutes at 1,200 rpm
-       (4 °C) to recover. Top up to 50 μL final volume with filtrate if
+       (4°C) to recover. Top up to 50 μL final volume with filtrate if
        necessary.
 2. Dissolve 1mg (1 vial) S-HyNic to 10mM with 344.5 μL DMSO.
     * NOTE: Prepare fresh and use immediately. Do not store the dissolved
@@ -66,7 +56,7 @@
       buffer (i.e. 200 μL conjugation buffer exchanged three times) before
       purification, according to the manufacturerʼs instructions.
     1. Add sample to column, place in new collection tube and spin 2 minutes at
-       1,200 rpm (4 °C).
+       1,200 rpm (4°C).
 5. Resuspend lyophilized aldehyde-modified oligos to 1 μg / μL with Ultrapure
    water.
 6. Prepare 1 M aniline stock by diluting 93.13 μL aniline into 1 mL methanol.
@@ -80,17 +70,17 @@
      anti-rabbit MINUS oligo). Proximity probes with the same type of
      oligonucleotide (eg. both having oligonucleotide type PLUS) cannot be used
      together.
-8. Incubate the oligonucleotide-modified antibody mixture overnight at 4 °C.
+8. Incubate the oligonucleotide-modified antibody mixture overnight at 4°C.
 9. Buffer exchange the oligo-conjugated antibodies with the Amicon filters to
    reduce the amount of unreacted oligos.
     1. Add sample to pre-wet filter (see step 1b), place in collection tube and
-       spin 6 minutes at 14,000 rpm (4 °C).
+       spin 6 minutes at 14,000 rpm (4°C).
     2. Add 70 μL conjugation buffer to the sample place in collection tube and
-       spin 8 minutes at 14,000 rpm (4 °C). REPEAT.
+       spin 8 minutes at 14,000 rpm (4°C). REPEAT.
     3. Invert filter in new collection tube and spin 2 minutes at 1,200 rpm
-       (4 °C) to recover... top up to 50 μL final volume with conjugation
+       (4°C) to recover... top up to 50 μL final volume with conjugation
        buffer if necessary.
-10. Store secondary proximity probes at 4 °C for use.
+10. Store secondary proximity probes at 4°C for use.
 11. OPTIONAL: For higher purity, remove unreacted oligonucleotides by purifying
     the proximity probe using gel filtration by HPLC on a Superdex-75 or
     Superdex-100 column.

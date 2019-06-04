@@ -1,6 +1,6 @@
 # Cell Titer Glo Assay
 
-##  Step
+## Steps
 
 1. Plate 10k cells in 200 μL of media in an opaque-backed 96-well plate.
     * Make sure to keep control wells without any cells to measure background

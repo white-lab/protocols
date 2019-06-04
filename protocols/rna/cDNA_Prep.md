@@ -17,7 +17,7 @@
     * Remember to prep two tubes for +/- RT control.
 2. Add 1 μL of 10X DNAse buffer and 1 μL of DNAse
 3. Incubate at RT for 15 minutes.
-4. Add 1 μL of EDTA and incubate at 65 °C in water bath for 10 minutes.
+4. Add 1 μL of EDTA and incubate at 65°C in water bath for 10 minutes.
 5. Cool for 1 minute at RT and then spin down the RNA until the rotor reaches
    10-12,000 rpm.
 6. Add 8 μL of the appropriate master mix to the RNA samples and incubate at

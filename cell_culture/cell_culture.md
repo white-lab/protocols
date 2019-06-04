@@ -1,23 +1,20 @@
 # Cell Culture
 
-## Introduction
-
 ## Cell Line Parameters
 
 Each cell line is unique. The key parameters you should find out before working
 with a line are:
 
-* Media Composition
+* Media and Growth Conditions
     * What base media, what concentration serum, and which additional
       inhibitors and antibiotics do you need to add?
-
-* Splitting Trypsin and incubation time
+    * What type of container will these cells need to be grown in?
+* Splitting Conditons
     * How strongly adherent are your cells? Loosely adherent cells can use
       0.05% Trypsin and incubate for 10 minutes, but more strongly adherent
       cells may need a higher concentration of Trypsin and longer incubation
       time.
-
-* Spin Down
+    * How often must your cells be split? For how many passages are they stable?
     * When spinning down cells to remove debris, for how long and at what speed
       should you centrifuge them?
 
@@ -64,7 +61,7 @@ Cells require a ready stream of new media to grow well. Most cells should have
 their media changed every 2-3 days, though you should regularly check the color
 of the media to ensure the pH has not dropped.
 
-If their  media is not red-orange, your cells have gone bad and you should throw
+If their media is not red-orange, your cells have gone bad and you should throw
 them out. Do not try to save cells, a drop in pH will have applied selective
 pressure that can confound the results of your experiment.
 
@@ -98,7 +95,7 @@ To split cells, follow these steps:
       the first few times to ensure you have removed all of your cells. Being
       lazy at this step can lead to selection for less-adherent cells.
 8. Spin down cells.
-9. Aspirate off supernant.
+9. Aspirate off supernatant.
 10. Resuspend in media
 11. Measure cell count.
 12. Add media, then cells to plate at desired concentration.
@@ -123,7 +120,7 @@ into a 15 mL conical tube. Once you have cells in solution, follow these steps:
 6. Aliquot cells in 1 mL volume into 1.5 mL cryostorage (orange cap) tubes.
 7. Put tubes in Mr. Frosty case.
     * Lightly tighten the cap to allow easy removal.
-8. Store case in -80 °C overnight.
+8. Store case in -80°C overnight.
 9. Move tubes to cell storage freezer.
     * Located in cell culture stock room.
 

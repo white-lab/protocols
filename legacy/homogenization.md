@@ -28,7 +28,7 @@
           to remove.
 2. Add 3 mL lysis buffer to 15 mL tube on ice.
 3. Grab a timer.
-4. Get sample from -80 °C freezer, keep on dry ice.
+4. Get sample from -80°C freezer, keep on dry ice.
 5. Take tissue out of tube using tweezers and deposit on a weighing tray that
    has been tared.
 6. Record weight, size, and shape of tissue sample.
@@ -39,9 +39,9 @@
     2. Check tube for visible chunks of tissue, apply additional 10 second
        pulses as needed.
 9. Take a 50 μL aliquot for [BCA](bca.md) protein quantification.
-10. Place aliquot and full lysate on dry ice, transfer full lysate to -80 °C
+10. Place aliquot and full lysate on dry ice, transfer full lysate to -80°C
     freezer.
-11. Centrifuge lysate aliquot down at 4000 rpm, 4 °C for 5 minutes prior to
+11. Centrifuge lysate aliquot down at 4000 rpm, 4°C for 5 minutes prior to
     BCA assay.
-12. Centrifuge full lysate down at 4000 rpm, 4 °C for 20 minutes prior to
+12. Centrifuge full lysate down at 4000 rpm, 4°C for 20 minutes prior to
     reduction, alkylation, and digestion steps.

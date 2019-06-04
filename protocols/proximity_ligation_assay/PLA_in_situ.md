@@ -10,7 +10,7 @@ recognizing mouse and rabbit immunoglobulins in combination with a pair of mouse
 rabbit primary antibodies binding the target proteins. The protocol presented below is
 based on a 30-μl reaction volume, sufficient for a surface area of approximately 1 $cm^2$
 
-## Reagents
+## Equipment & Reagents
 
 * Cover slips No. 1.5
     * 18 mm square, 12-541A, Fisher
@@ -51,7 +51,6 @@ based on a 30-μl reaction volume, sufficient for a surface area of approximatel
     * 75x25, CLS294875X25, Fisher
 * Vectashield
     * H-1000, Vector Labs
-
 * 2° proximity PLUS and MINUS probes
 * 2° Connector 1
     * 5′-P-CTA TTA GCG TCC AGT GAA TGC GAG TCC GTC TAA GAG AGT AGT ACA GCA GCC GTC AAG AGT GTC TA-3ʼ
@@ -93,7 +92,7 @@ to the sample reaction area. Incubate for 45 minutes @37°C in a humidity chambe
 TC incubator).
     9. Dilute primary antibodies to optimized concentration in fresh PLA probe solution (see
 PLA buffers and solutions appendix). Remove Blocking solution from slides and apply
-primary antibody solution to the sample reaction area. Incubate overnight at 4 °C
+primary antibody solution to the sample reaction area. Incubate overnight at 4°C
         * NOTE: Seal the container with Parafilm to prevent evaporation from the opendroplet
 reaction.
     10. Wash 3X 5 minutes in Antibody Wash Buffer to remove unbound primaries.

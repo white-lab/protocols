@@ -3,12 +3,10 @@
 Taken from [Sigma](http://www.sigmaaldrich.com/technical-documents/articles/biofiles/product-protocols.html),
 calculations in example taken from [Corning](http://csmedia2.corning.com/LifeSciences/media/pdf/protocol_CLS_AN_150_FibronectinCoating_Transwell_Inserts.pdf)
 
-## Reagents
+## Equipment & Reagents
 
 * Species Plasma Fibronectin, in powder form
-
 * Sterile H2O
-
 * (Hank's) Sterile Balanced Salt Solution
 
 ## Steps
@@ -23,7 +21,7 @@ calculations in example taken from [Corning](http://csmedia2.corning.com/LifeSci
 4. Allow to air dry for at least 45 minutes at room temperature.
     * Excess fibronectin may be removed by aspiration, but is not necessary.
 5. Optionally wash with PBS or media.
-6. Store at 4 °C.
+6. Store at 4°C.
 
 ## Example
 

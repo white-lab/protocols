@@ -1,13 +1,10 @@
 # Measuring Phagocytosis by Flow Cytometry
 
-## Reagents
+## Equipment & Reagents
 
 * FluoSpheres® (Blue-Green) (Thermo: F13080)
-
 * Aβ-Alexa Fluor-488 (AnaSpec: AS-60479-01)
-
 * Dextran, Alexa Fluor® 488 (Thermo: D22910)
-
 * Flow Cytometry Buffer (FCB)
     * 10% FBS, 1 mM EDTA, PBS without calcium or magnesium.
     * Keep on ice.

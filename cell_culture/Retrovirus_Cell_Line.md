@@ -1,16 +1,12 @@
 # Retrovirus Production and Infection
 
-## Reagents
+## Equipment & Reagents
 
 * FuGene (Promega, E2311)
     * Located in Tissue Culture Fridge
-
 * Puromycin (Puro)
-
 * Polybrene
-
 * HEK293 Cells
-
 * MSCV-IRES-Puro (MIP) Plasmid
     * Follow a standard ligation protocol to clone your gene of interest into
       the plasmid's multiple cloning site (MSC).
@@ -18,10 +14,8 @@
       running a DNA digest with enzymes that cut 5' and 3' to your insert.
       Check that the plasmid and insert appear at the correct sizes when run
       on a gel.
-
 * 0.45 μm filter
     * VMR Cat. No. 28145-505
-
 * BD Syringe
 
 ## Puro Kill Curve

@@ -50,6 +50,8 @@
 10. Run RT-qPCR cycle.
     * Wait for green light on instrument before leaving.
 
+<div style="page-break-after: always;"></div>
+
 ## Notes
 
 Generally speaking, you should run 2-3 replicates for each gene / sample /

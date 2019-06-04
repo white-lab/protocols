@@ -45,7 +45,7 @@
     1. A sixteen hour bake is sufficient to get to operational vacuum.
     2. Following the 16 hour bake, a 3.5 hour cool down is required for the
        central electrode PSU to become stable.
-        * Note: 1 °C = 5 ppm nominal mass drift.
+        * Note: 1°C = 5 ppm nominal mass drift.
     3. After communication is established, go to the tune page and observe the
        vacuums. The LTQ ion gauge should be less than 3e-5 Torr before baking
        (this indicates that there are no big leaks introduced into the system

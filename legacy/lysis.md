@@ -43,4 +43,4 @@ lysis, see the [Homogenization](homogenization.md) protocol.
       to remove all of the cell and collect them at one end.
 6. Pipette the solution into labeled 15 mL conical tubes.
 7. Take a 50 μL aliquot for [BCA](bca.md) protein quantification.
-8. Store lysates at -80 °C.
+8. Store lysates at -80°C.

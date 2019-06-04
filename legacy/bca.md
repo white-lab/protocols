@@ -34,7 +34,7 @@
     1. 15 μL sample to 45 μL PBS.
     2. 7.5 μL sample to 52.5 μL PBS.
     3. Make an extra set of 50 μL undiluted lysate in case BCA assay needs to be
-       repeated, keep at 4 °C.
+       repeated, keep at 4°C.
     4. More concentrated sample may need larger (i.e. 1:10, 1:20) dilutions.
     5. For RIPA samples, dilute 1:10 in PBS.
 4. Mix BCA Reagents A and B in reagent reservoir.
@@ -47,7 +47,7 @@
        dilution was assigned to each row.
 6. Using a multi-channel pipette, add 200 μL A:B reagent to each well.
 7. Cover with parafilm to reduce evaporation.
-8. Incubate at 37 °C for 30 min (use oven in mass spec lab).
+8. Incubate at 37°C for 30 min (use oven in mass spec lab).
 9. Check wells for presence of bubbles, 1 mg / mL standards be purple in color.
 10. Measure the absorbance at 562 nm on a plate reader.
     1. Before reads, add a shaking parameter of 1 mm amplitude for 10 seconds.
