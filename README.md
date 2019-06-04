@@ -17,6 +17,15 @@ We supply automatically-compiled PDFs of tagged commits on our
   * Full Protocols : All protocols currently used in the lab.
   * Legacy Protocols : Old protocols that have been deprecated or combined into newer workflows.
 
+## Lab Parts and Reagents
+
+  We keep a catalog of our commonly ordered lab supplies in this repository's [parts](parts) folder:
+
+    * [HPLC Parts](parts/HPLC.md)
+    * [Wet Lab](parts/Wet_Lab.md)
+
+## Development
+
 All documents contained here are written using
 [Markdown](https://daringfireball.net/projects/markdown/). To convert them to
 PDF yourself, install `md-to-pdf` via the node package manager and run
@@ -33,9 +42,4 @@ npm install -g md-to-pdf
 make
 ```
 
-## Lab Parts and Reagents
-
-We keep a catalog of our commonly ordered lab supplies in this repository's [parts](parts) folder:
-
-  * [HPLC Parts](parts/HPLC.md)
-  * [Wet Lab](parts/Wet_Lab.md)
+See [.travis.yml](.travis.yml) for an example build environment.
