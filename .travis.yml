@@ -19,7 +19,7 @@ deploy:
     - "protocols/Proteomics_Protocols.pdf"
     - "protocols/Cell_Culture_Protocols.pdf"
     - "protocols/Wet_Lab_Protocols.pdf"
-    - "protocols/Full_Protocols.pdf"
+    - "protocols/All_Protocols.pdf"
     - "protocols/Legacy_Protocols.pdf"
   skip_cleanup: true
   api_key:

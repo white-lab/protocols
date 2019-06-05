@@ -13,10 +13,10 @@ the [protocols](protocols) and [cell_culture](cell_culture) folders.
 We supply automatically-compiled PDFs of tagged commits on our
 [releases](https://github.com/white-lab/protocols/releases/latest) page:
 
+  * All Protocols : All protocols currently used in the lab.
   * Proteomics Protocols : A series of protocols to prepare sample lysates for proteomics analysis.
   * Wet Lab Protocols : Various protocols for cloning and molecular biology analysis.
   * Cell Culture Protocols : Protocols for cell culture.
-  * Full Protocols : All protocols currently used in the lab.
   * Legacy Protocols : Old protocols that have been deprecated or combined into newer workflows.
 
 ## Lab Parts and Reagents
