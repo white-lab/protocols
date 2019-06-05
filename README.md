@@ -30,8 +30,20 @@ We supply automatically-compiled PDFs of tagged commits on our
 ## Development
 
 All documents contained here are written using
-[Markdown](https://daringfireball.net/projects/markdown/). To convert them to
-PDF yourself, install `md-to-pdf` via the node package manager and run
+[Markdown](https://daringfireball.net/projects/markdown/).
+
+To edit these documents, you will need to be added to the [White-Lab](https://github.com/white-lab) GitHub group. Then you can either use GitHub's in-browser editor to create and update files or you can clone the repository to edit files locally.
+
+To generate a final release, you will need to tag the latest release locally, and then push the tag to GitHub:
+
+```
+git tag -a 2019-07-01 -m "Added protocols with alternate cell lysis methods."
+git push --tags
+```
+
+### Building Releases
+
+Our PDFs are build on tagged releases using [Travis-CI](https://travis-ci.org/white-lab/protocols). To build the PDFs yourself, install `md-to-pdf` via the node package manager and run
 `make`:
 
 ```
