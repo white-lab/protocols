@@ -1,8 +1,8 @@
-All_
+
 .DEFAULT_GOAL := all
+
 SRC = $(wildcard protocols/**/*.md)
 LEGACY = $(wildcard protocols/legacy/*.md)
-PDFS = $(SRC:.md=.pdf)
 
 MS_MD_PATH = protocols/Proteomics_Protocols.md
 WET_MD_PATH = protocols/Wet_Lab_Protocols.md
@@ -10,18 +10,17 @@ CELL_MD_PATH = protocols/Cell_Culture_Protocols.md
 ALL_MD_PATH = protocols/All_Protocols.md
 LEGACY_MD_PATH = protocols/Legacy_Protocols.md
 
+MERGED_MDS = $(CELL_MD_PATH) $(MS_MD_PATH) $(WET_MD_PATH) $(ALL_MD_PATH) $(LEGACY_MD_PATH)
+
 MS_FILES = protocols/mass_spec/Proteomics_Workflow.md $(wildcard protocols/mass_spec/**/*.md) protocols/mass_spec/Peptide_Standards.md
-
 WET_FILES = $(wildcard protocols/wet_lab/*.md) $(wildcard protocols/wet_lab/**/*.md)
-
 CELL_FILES = $(wildcard protocols/cell_culture/*.md) $(wildcard protocols/cell_culture/**/*.md)
-
 ALL_FILES = $(MS_FILES) $(WET_FILES) $(CELL_FILES)
 LEGACY_FILES = $(wildcard protocols/legacy/*.md)
 
-MERGED_MDS = $(CELL_MD_PATH) $(MS_MD_PATH) $(WET_MD_PATH) $(ALL_MD_PATH) $(LEGACY_MD_PATH)
-
 MERGED_PDFS = $(MERGED_MDS:.md=.pdf)
+PDFS = $(SRC:.md=.pdf)
+
 MD_TO_PDF_JSON = md_to_pdf.json
 
 
