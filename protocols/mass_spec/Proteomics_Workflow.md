@@ -66,7 +66,7 @@ These peptide mixtures may be directly injected into a mass spectrometer, howeve
        cool down.
     2. Check tube for visible chunks of tissue, apply additional 10 second
        pulses as needed.
-9. Centrifuge lysate aliquot down at 4000 rpm, 4°C for 20 minutes to remove debris.
+9. Centrifuge lysate aliquot down at 4000 g, 4°C for 20 minutes to remove debris.
 10. Take a 50 μL aliquot for BCA protein quantification.
 
 <div style="page-break-after: always;"></div>
@@ -253,7 +253,7 @@ To label peptides with TMT mass tags, begin with ~150 μg peptides per sample. W
 * TMT
     * Located in -80°C storage in bottom half of Thermo freezer.
 * 50 mM HEPES (pH 8.5) in HPLC grade water
-* 5% Hydroxylammine
+* 5% Hydroxylamine
     * Located on Jacqueline's shelve in wet lab as 50%, dilute 10x in HPLC water
 * 25% Acetonitrile, 0.1% Acetic Acid
 * Anhydrous MeCN (freshest one)
