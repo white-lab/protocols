@@ -5,7 +5,7 @@
 * Thermo-controlled Centrifuge
 * Ice bucket / tray
 * Heat block
-* RIPA Buffer (see [RIPA Lysis](ripa_lysis.md))
+* RIPA Buffer (see [RIPA Lysis](RIPA_Lysis.md))
 * Protein A / G agarose beads
     * See [Antibody Affinities](https://www.neb.com/tools-and-resources/selection-charts/affinity-of-protein-ag-for-igg-types-from-different-species)
     * Use protein A for rabbit and protein G for mouse.
