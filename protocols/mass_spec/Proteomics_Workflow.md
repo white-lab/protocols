@@ -43,7 +43,8 @@ These peptide mixtures may be directly injected into a mass spectrometer, howeve
     * Scrape in all four directions while holding the dish at a slant in order
       to remove all of the cell and collect them at one end.
 7. Pipette the solution into labeled 15 mL conical tubes.
-8. Take a 50 μL aliquot for BCA protein quantification.
+8. Centrifuge samples for 5-30 minutes at 4,000 g to clear solution of lipids and other debris.
+9. Take a 50 μL aliquot for BCA protein quantification.
 
 ### Tissue Homogenization
 
@@ -186,7 +187,7 @@ These peptide mixtures may be directly injected into a mass spectrometer, howeve
 
 ### Steps
 
-1. Centrifuge samples for 5 minutes at 3000 rpm to pellet particulate.
+1. Centrifuge samples for 5 minutes at 4,000 g to pellet particulate.
 2. Attach a syringe to a Sep-Pak C18 Cartridge.
 2. Label the syringes and corresponding 10 mL tubes for elution.
 3. Attach syringes to Hamilton device and condition the C18 columns.
